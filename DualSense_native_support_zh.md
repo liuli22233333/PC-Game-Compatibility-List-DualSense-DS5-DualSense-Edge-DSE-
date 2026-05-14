@@ -1,0 +1,1077 @@
+﻿# PCGamingWiki DualSense / DualSense Edge 支持清单（校正版）
+
+来源：https://www.pcgamingwiki.com/wiki/List_of_games_that_support_DualSense
+筛选条件：按 `Playstation_controller_models` 分别查询 `DualSense` 与 `DualSense Edge`，状态为 `true` / `limited` / `hackable`。
+状态说明：本地支持 = true；限制支持 = limited；需手动修复 = hackable；未列入 = PCGW 未把该型号列入该游戏的对应支持状态。
+整理时间：2026-05-13 02:20 +08:00
+
+## DS5 与 DSE 本地支持（142 款）
+
+- 瘟疫传说：安魂曲（A Plague Tale: Requiem）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持；触觉反馈：DS5 本地支持，DSE 本地支持
+- 寂静之地：前方之路（A Quiet Place: The Road Ahead）；DS5：本地支持；DSE：本地支持
+- 无限机兵（AI Limit）；DS5：本地支持；DSE：本地支持
+- 心灵杀手 II（Alan Wake II）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持；触觉反馈：DS5 限制支持，DSE 限制支持
+- 兽王（创世纪）（Altered Beast (Genesis)）；DS5：本地支持；DSE：本地支持
+- Apex 英雄（Apex Legends）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持；触觉反馈：DS5 限制支持，DSE 限制支持
+- 明日方舟：终末地（Arknights: Endfield）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持；触觉反馈：DS5 本地支持，DSE 本地支持
+- 刺客信条：幻景（Assassin's Creed Mirage）；DS5：本地支持；DSE：本地支持；触觉反馈：DS5 本地支持，DSE 本地支持
+- 萝乐娜的炼金工房：亚兰德之炼金术士 DX（Atelier Rorona: The Alchemist of Arland DX）；DS5：本地支持；DSE：本地支持
+- 阿凡达：潘多拉边境（Avatar: Frontiers of Pandora）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持；触觉反馈：DS5 本地支持，DSE 本地支持
+- 战地 6（Battlefield 6）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持；触觉反馈：DS5 本地支持，DSE 本地支持
+- BeamNG.drive（BeamNG.drive）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持
+- 布莱克梅萨（Black Mesa）；DS5：本地支持；DSE：本地支持
+- 使命召唤：黑色行动 6（Call of Duty: Black Ops 6）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持；触觉反馈：DS5 本地支持，DSE 本地支持
+- 使命召唤：黑色行动 7（Call of Duty: Black Ops 7）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持；触觉反馈：DS5 本地支持，DSE 本地支持
+- 使命召唤：现代战争 II（Call of Duty: Modern Warfare II）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持；触觉反馈：DS5 限制支持，DSE 限制支持
+- 使命召唤：现代战争 III（Call of Duty: Modern Warfare III）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持；触觉反馈：DS5 本地支持，DSE 本地支持
+- 野性的呼唤：钓鱼者（Call of the Wild: The Angler）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持
+- 猫咪斗恶龙 3（Cat Quest III）；DS5：本地支持；DSE：本地支持
+- 光与影：33号远征（Clair Obscur: Expedition 33）；DS5：本地支持；DSE：本地支持
+- 赛博朋克 2077（Cyberpunk 2077）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持；触觉反馈：DS5 本地支持，DSE 本地支持
+- 死亡岛 2（Dead Island 2）；DS5：本地支持；DSE：本地支持
+- 死亡搁浅 导演剪辑版（Death Stranding Director's Cut）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持；触觉反馈：DS5 限制支持，DSE 限制支持
+- 三角洲行动（2024）（Delta Force (2024)）；DS5：本地支持；DSE：本地支持
+- 鬼泣 5（Devil May Cry 5）；DS5：本地支持；DSE：本地支持
+- 数码宝贝物语：时间陌生人（Digimon Story: Time Stranger）；DS5：本地支持；DSE：本地支持
+- 尘埃拉力赛 2.0（DiRT Rally 2.0）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 需手动修复，DSE 需手动修复
+- 距离（Distance）；DS5：本地支持；DSE：本地支持
+- 毁灭战士：黑暗时代（Doom: The Dark Ages）；DS5：本地支持；DSE：本地支持
+- 龙腾世纪：影障守护者（Dragon Age: The Veilguard）；DS5：本地支持；DSE：本地支持；触觉反馈：DS5 本地支持，DSE 本地支持
+- 驾驶拉力赛（Drive Rally）；DS5：本地支持；DSE：本地支持
+- EA 体育 FC 25（EA Sports FC 25）；DS5：本地支持；DSE：本地支持
+- EA 体育 WRC（EA Sports WRC）；DS5：本地支持；DSE：本地支持；触觉反馈：DS5 需手动修复，DSE 需手动修复
+- F1 22（F1 22）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持；触觉反馈：DS5 本地支持，DSE 本地支持
+- F1 23（F1 23）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持；触觉反馈：DS5 本地支持，DSE 本地支持
+- F1 24（F1 24）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持；触觉反馈：DS5 本地支持，DSE 本地支持
+- F1 25（F1 25）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持；触觉反馈：DS5 本地支持，DSE 本地支持
+- 远光84（Farlight 84）；DS5：本地支持；DSE：本地支持
+- 命运触发（Fate Trigger）；DS5：本地支持；DSE：本地支持
+- FBC：防火线（FBC: Firebreak）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持；触觉反馈：DS5 限制支持，DSE 限制支持
+- 最终幻想 VII（2012）（Final Fantasy VII (2012)）；DS5：本地支持；DSE：本地支持
+- 最终幻想 VII（2020）（Final Fantasy VII (2020)）；DS5：本地支持；DSE：本地支持
+- 最终幻想 XIV：重生之境（Final Fantasy XIV: A Realm Reborn）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持；触觉反馈：DS5 本地支持，DSE 本地支持
+- 最终幻想 XVI（Final Fantasy XVI）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持；触觉反馈：DS5 本地支持，DSE 本地支持
+- 魔咒之地（Forspoken）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持；触觉反馈：DS5 本地支持，DSE 本地支持
+- 堡垒之夜（Fortnite）；DS5：本地支持；DSE：本地支持
+- 原神（Genshin Impact）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 限制支持，DSE 限制支持；触觉反馈：DS5 需手动修复，DSE 需手动修复
+- 对马岛之魂 导演剪辑版（Ghost of Tsushima Director's Cut）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持；触觉反馈：DS5 本地支持，DSE 本地支持
+- 幽灵线：东京（Ghostwire: Tokyo）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持；触觉反馈：DS5 本地支持，DSE 本地支持
+- 战神：诸神黄昏（God of War Ragnarök）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持；触觉反馈：DS5 本地支持，DSE 本地支持
+- 侠盗猎车手 V 增强版（Grand Theft Auto V Enhanced）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持
+- 哈迪斯（Hades）；DS5：本地支持；DSE：本地支持
+- 半衰期 2（Half-Life 2）；DS5：本地支持；DSE：本地支持
+- 半衰期 2：第一章（Half-Life 2: Episode One）；DS5：本地支持；DSE：本地支持
+- 半衰期 2：第二章（Half-Life 2: Episode Two）；DS5：本地支持；DSE：本地支持
+- 半衰期 2：消失的海岸线（Half-Life 2: Lost Coast）；DS5：本地支持；DSE：本地支持
+- 哈利·波特：魁地奇冠军（Harry Potter: Quidditch Champions）；DS5：本地支持；DSE：本地支持
+- 我们就是地狱（Hell is Us）；DS5：本地支持；DSE：本地支持；触觉反馈：DS5 本地支持，DSE 本地支持
+- 绝地潜兵 2（Helldivers 2）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持；触觉反馈：DS5 本地支持，DSE 本地支持
+- 完美音浪（Hi-Fi Rush）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持；触觉反馈：DS5 本地支持，DSE 本地支持
+- 杀手：暗杀世界（Hitman: World of Assassination）；DS5：本地支持；DSE：本地支持
+- 霍格沃茨之遗（Hogwarts Legacy）；DS5：本地支持；DSE：本地支持；触觉反馈：DS5 本地支持，DSE 本地支持
+- 空洞骑士（Hollow Knight）；DS5：本地支持；DSE：本地支持
+- 崩坏：星穹铁道（Honkai: Star Rail）；DS5：本地支持；DSE：本地支持
+- 地平线：西之绝境（Horizon Forbidden West）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持；触觉反馈：DS5 本地支持，DSE 本地支持
+- 地平线：零之曙光 重制版（Horizon Zero Dawn Remastered）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持；触觉反馈：DS5 本地支持，DSE 本地支持
+- 风火轮 解放（Hot Wheels Unleashed）；DS5：本地支持；DSE：本地支持
+- 阿维姆的不朽者（Immortals of Aveum）；DS5：本地支持；DSE：本地支持
+- 夺宝奇兵：古老之圈（Indiana Jones and the Great Circle）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持；触觉反馈：DS5 本地支持，DSE 本地支持
+- 无限暖暖（Infinity Nikki）；DS5：本地支持；DSE：本地支持；触觉反馈：DS5 本地支持，DSE 本地支持
+- 赛车街机（IRacing Arcade）；DS5：本地支持；DSE：本地支持
+- 杰克和达斯特：先行者遗产 (OpenGOAL)（Jak and Daxter: The Precursor Legacy (OpenGOAL)）；DS5：本地支持；DSE：本地支持
+- 杰克 II (OpenGOAL)（Jak II (OpenGOAL)）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持
+- 匹诺曹的谎言（Lies of P）；DS5：本地支持；DSE：本地支持
+- 人中之龙8外传：夏威夷海盗（Like a Dragon: Pirate Yakuza in Hawaii）；DS5：本地支持；DSE：本地支持
+- 堕落之主（2023）（Lords of the Fallen (2023)）；DS5：本地支持；DSE：本地支持；触觉反馈：DS5 本地支持，DSE 本地支持
+- 失落之魂（Lost Soul Aside）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持；触觉反馈：DS5 本地支持，DSE 本地支持
+- 麦登 NFL 24（Madden NFL 24）；DS5：本地支持；DSE：本地支持
+- 劲爆 NFL 25（Madden NFL 25）；DS5：本地支持；DSE：本地支持
+- 马拉松重新编译（Marathon Recompiled）；DS5：本地支持；DSE：本地支持
+- 漫威宇宙入侵（Marvel Cosmic Invasion）；DS5：本地支持；DSE：本地支持
+- 漫威争锋（Marvel Rivals）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持；触觉反馈：DS5 本地支持，DSE 本地支持
+- 漫威蜘蛛侠 2（Marvel's Spider-Man 2）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持；触觉反馈：DS5 本地支持，DSE 本地支持
+- 漫威蜘蛛侠 重制版（Marvel's Spider-Man Remastered）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持；触觉反馈：DS5 限制支持，DSE 限制支持
+- 漫威蜘蛛侠：迈尔斯·莫拉莱斯（Marvel's Spider-Man: Miles Morales）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持；触觉反馈：DS5 限制支持，DSE 限制支持
+- 机甲突破（Mecha Break）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持
+- 极品飞车：不羁（Need for Speed Unbound）；DS5：本地支持；DSE：本地支持
+- Nikoderiko：魔法世界（Nikoderiko: The Magical World）；DS5：本地支持；DSE：本地支持
+- 九日（Nine Sols）；DS5：本地支持；DSE：本地支持
+- 忍者龙剑传 2 黑之章（Ninja Gaiden 2 Black）；DS5：本地支持；DSE：本地支持
+- 忍者龙剑传 4（Ninja Gaiden 4）；DS5：本地支持；DSE：本地支持；触觉反馈：DS5 本地支持，DSE 本地支持
+- 无人深空（No Man's Sky）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持；触觉反馈：DS5 限制支持，DSE 限制支持
+- 守望先锋 2（Overwatch 2）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持
+- 传送门（Portal）；DS5：本地支持；DSE：本地支持
+- 语用（Pragmata）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持
+- 波斯王子：失落王冠（Prince of Persia: The Lost Crown）；DS5：本地支持；DSE：本地支持；触觉反馈：DS5 本地支持，DSE 本地支持
+- 瑞奇与叮当：时空跳转（Ratchet & Clank: Rift Apart）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持；触觉反馈：DS5 限制支持，DSE 限制支持
+- 生化危机 4（2023）（Resident Evil 4 (2023)）；DS5：本地支持；DSE：本地支持
+- 生化危机：安魂曲（Resident Evil Requiem）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持；触觉反馈：DS5 本地支持，DSE 本地支持
+- 死亡回归（Returnal）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持；触觉反馈：DS5 本地支持，DSE 本地支持
+- 浪人崛起（Rise of the Ronin）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持；触觉反馈：DS5 本地支持，DSE 本地支持
+- Roblox（Roblox）；DS5：本地支持；DSE：本地支持
+- 火箭联盟（Rocket League）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 需手动修复，DSE 需手动修复
+- 沙漠大冒险（Sand Land）；DS5：本地支持；DSE：本地支持
+- 歪小子斯科特 EX（Scott Pilgrim EX）；DS5：本地支持；DSE：本地支持
+- Screamer（2026）（Screamer (2026)）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持
+- 塞娜的史诗：地狱之刃 II（Senua's Saga: Hellblade II）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持；触觉反馈：DS5 本地支持，DSE 本地支持
+- 寂静岭 2（Silent Hill 2）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持；触觉反馈：DS5 本地支持，DSE 本地支持
+- 寂静岭 4：密室（Silent Hill 4: The Room）；DS5：本地支持；DSE：本地支持
+- Skate（Skate）；DS5：本地支持；DSE：本地支持；触觉反馈：DS5 本地支持，DSE 本地支持
+- 碧海黑帆（Skull and Bones）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持；触觉反馈：DS5 本地支持，DSE 本地支持
+- 索尼克乱斗派对（Sonic Rumble Party）；DS5：本地支持；DSE：本地支持
+- 星球大战：亡命之徒（Star Wars Outlaws）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持；触觉反馈：DS5 本地支持，DSE 本地支持
+- 剑星（Stellar Blade）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持；触觉反馈：DS5 本地支持，DSE 本地支持
+- 牧场物语 Welcome！美丽人生（Story of Seasons: A Wonderful Life）；DS5：本地支持；DSE：本地支持
+- 深海迷航（Subnautica）；DS5：本地支持；DSE：本地支持
+- 超级棒球 3（Super Mega Baseball 3）；DS5：本地支持；DSE：本地支持
+- 超级棒球 4（Super Mega Baseball 4）；DS5：本地支持；DSE：本地支持
+- 网络奇兵 2：25 周年重制版（System Shock 2: 25th Anniversary Remaster）；DS5：本地支持；DSE：本地支持；触觉反馈：DS5 本地支持，DSE 本地支持
+- 军团要塞 2（Team Fortress 2）；DS5：本地支持；DSE：本地支持
+- 飙酷车神：轰鸣盛典（The Crew Motorfest）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持；触觉反馈：DS5 本地支持，DSE 本地支持
+- 上古卷轴 IV：湮灭 重制版（The Elder Scrolls IV: Oblivion Remastered）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持
+- 第一后裔（The First Descendant）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持；触觉反馈：DS5 本地支持，DSE 本地支持
+- 最后生还者 第一部（The Last of Us Part I）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持；触觉反馈：DS5 本地支持，DSE 本地支持
+- 最后生还者 第二部 重制版（The Last of Us Part II Remastered）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持；触觉反馈：DS5 本地支持，DSE 本地支持
+- 英雄传说：界之轨迹（The Legend of Heroes: Trails Beyond the Horizon）；DS5：本地支持；DSE：本地支持
+- 天外世界：太空人之选版（The Outer Worlds: Spacer's Choice Edition）；DS5：本地支持；DSE：本地支持
+- 逃生：试炼（The Outlast Trials）；DS5：本地支持；DSE：本地支持
+- 汤姆克兰西：彩虹六号 围攻（Tom Clancy's Rainbow Six Siege）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持
+- 神秘海域：盗贼传奇合辑（Uncharted: Legacy of Thieves Collection）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持；触觉反馈：DS5 本地支持，DSE 本地支持
+- Unleashed Recompiled（Unleashed Recompiled）；DS5：本地支持；DSE：本地支持
+- 直到黎明（Until Dawn）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持；触觉反馈：DS5 本地支持，DSE 本地支持
+- 圣剑传说 Visions of Mana（Visions of Mana）；DS5：本地支持；DSE：本地支持
+- 星际战甲（Warframe）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持
+- 无双大蛇 3（Warriors Orochi 4）；DS5：本地支持；DSE：本地支持
+- 明末：渊虚之羽（Wuchang: Fallen Feathers）；DS5：本地支持；DSE：本地支持
+- 鸣潮（Wuthering Waves）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持
+- 如龙 极 2（2025）（Yakuza Kiwami 2 (2025)）；DS5：本地支持；DSE：本地支持
+- 如龙 极 3 & Dark Ties（Yakuza Kiwami 3 & Dark Ties）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持
+- 伊苏 X：北境历险（Ys X: Nordics）；DS5：本地支持；DSE：本地支持
+- 伊苏 X：自豪诺迪克斯（Ys X: Proud Nordics）；DS5：本地支持；DSE：本地支持
+- 绝区零（Zenless Zone Zero）；DS5：本地支持；DSE：本地支持；自适应扳机：DS5 本地支持，DSE 本地支持；触觉反馈：DS5 需手动修复，DSE 需手动修复
+
+## 仅 DS5 本地支持 / DSE 非本地或未列入（631 款）
+
+- 1000x抵抗（1000xResist）；DS5：本地支持；DSE：未列入
+- 第二个前夕（2nd Eve）；DS5：本地支持；DSE：未列入
+- 2XKO（2XKO）；DS5：本地支持；DSE：未列入
+- 距午夜 3 分钟（3 Minutes to Midnight）；DS5：本地支持；DSE：未列入
+- 500口径合同（500 Caliber Contractz）；DS5：本地支持；DSE：未列入
+- 秋天的呢喃：锦衣卫（A Whisper of Fall: Jinyiwei）；DS5：本地支持；DSE：未列入
+- 爱拉（A.I.L.A）；DS5：本地支持；DSE：未列入
+- 阿巴索尔（Abathor）；DS5：本地支持；DSE：未列入
+- 关于钓鱼（About Fishing）；DS5：本地支持；DSE：未列入
+- 绝对漂移（Absolute Drift）；DS5：本地支持；DSE：未列入
+- 在我们之后（After Us）；DS5：本地支持；DSE：未列入
+- 亚历克斯·琼斯：新世界秩序战争（Alex Jones: NWO Wars）；DS5：本地支持；DSE：未列入
+- 外星死亡风暴（Alien Deathstorm）；DS5：本地支持；DSE：未列入
+- 异形：精英火力小队（Aliens: Fireteam Elite）；DS5：本地支持；DSE：未列入
+- 阿尔法·诺莫斯（Alpha Nomos）；DS5：本地支持；DSE：未列入
+- 阿尔忒亚：阿菲利之怒（Altheia: The Wrath of Aferi）；DS5：本地支持；DSE：未列入
+- 冒险家阿曼达2（Amanda the Adventurer 2）；DS5：本地支持；DSE：未列入
+- 冒险家阿曼达3（Amanda the Adventurer 3）；DS5：本地支持；DSE：未列入
+- 美洲地带 - 探险家的遗产 (2025)（Amerzone - The Explorer's Legacy (2025)）；DS5：本地支持；DSE：未列入
+- 安吉琳时代（Angeline Era）；DS5：本地支持；DSE：未列入
+- 阿尼玛记忆之门：I & II 重制版（Anima Gate of Memories: I & II Remastered）；DS5：本地支持；DSE：未列入
+- 动物井（Animal Well）；DS5：本地支持；DSE：未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- 纪元：突变（ANNO: Mutationem）；DS5：本地支持；DSE：未列入
+- 安东布拉斯（Antonblast）；DS5：本地支持；DSE：未列入
+- 远日点（Aphelion）；DS5：本地支持；DSE：未列入
+- 荒神2（Aragami 2）；DS5：本地支持；DSE：未列入
+- ARC攻略（ARC Raiders）；DS5：本地支持；DSE：未列入
+- 北极觉醒（Arctic Awakening）；DS5：本地支持；DSE：未列入
+- 阿瑞斯的呼吸（Ares Breathes）；DS5：本地支持；DSE：未列入
+- 阿丽亚娜和长者法典（Ariana and the Elder Codex）；DS5：本地支持；DSE：未列入
+- 武装重铸者（Arma Reforger）；DS5：本地支持；DSE：未列入
+- 阿马图斯（Armatus）；DS5：本地支持；DSE：未列入
+- 拉力赛的艺术（Art of Rally）；DS5：本地支持；DSE：未列入
+- 人工侦探（Artificial Detective）；DS5：本地支持；DSE：未列入
+- 阿蒂斯影响（Artis Impact）；DS5：本地支持；DSE：未列入
+- Arzette：法拉莫尔的宝石（Arzette: The Jewel of Faramore）；DS5：本地支持；DSE：未列入
+- 刺客信条：影（Assassin's Creed Shadows）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- 刺客信条：英灵殿（Assassin's Creed Valhalla）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- 阿斯特菲尔（Asterfel）；DS5：本地支持；DSE：未列入
+- 天文勘探者（Astro Prospector）；DS5：本地支持；DSE：未列入
+- 在命运的尽头（At Fate's End）；DS5：本地支持；DSE：未列入
+- 雷斯勒里亚纳的炼金工房：红色炼金术士与白色守护者（Atelier Resleriana: The Red Alchemist & the White Guardian）；DS5：本地支持；DSE：未列入
+- 莱莎的炼金工房2：失落的传说与秘密妖精DX（Atelier Ryza 2: Lost Legends & the Secret Fairy DX）；DS5：本地支持；DSE：未列入
+- 莱莎的炼金工房3：终结的炼金术士&秘密钥匙DX（Atelier Ryza 3: Alchemist of the End & the Secret Key DX）；DS5：本地支持；DSE：未列入
+- 莱莎的炼金工房：常暗与秘密藏身处 DX（Atelier Ryza: Ever Darkness & the Secret Hideout DX）；DS5：本地支持；DSE：未列入
+- 觉醒 - 星界之刃（Awaken - Astral Blade）；DS5：本地支持；DSE：未列入
+- 绫纱：沉默之影（Ayasa: Shadows of Silence）；DS5：本地支持；DSE：未列入
+- 后4血（Back 4 Blood）；DS5：本地支持；DSE：未列入
+- 坏结局剧院（Bad End Theater）；DS5：本地支持；DSE：未列入
+- 巴拉特罗（Balatro）；DS5：本地支持；DSE：未列入
+- 巴尔迪的基础经典重制版（Baldi's Basics Classic Remastered）；DS5：本地支持；DSE：未列入
+- 博德之门3（Baldur's Gate 3）；DS5：本地支持；DSE：未列入
+- 弹道NG（BallisticNG）；DS5：本地支持；DSE：未列入
+- Bandle Tale：英雄联盟故事（Bandle Tale: A League of Legends Story）；DS5：本地支持；DSE：未列入
+- 放逐者：新伊甸园的幽灵（Banishers: Ghosts of New Eden）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入
+- 愚人宴（Banquet for Fools）；DS5：本地支持；DSE：未列入
+- 巴腾凯托斯 I & II 高清重制版（Baten Kaitos I & II HD Remaster）；DS5：本地支持；DSE：未列入
+- 轮回之兽（Beast of Reincarnation）；DS5：本地支持；DSE：未列入
+- 贝尔的号角（Bel's Fanfare）；DS5：本地支持；DSE：未列入
+- 超越银河系（Beyond Galaxyland）；DS5：本地支持；DSE：未列入
+- 生物女神：世界末日开始（Bio Goddess : Doomsday Begins）；DS5：本地支持；DSE：未列入
+- 鸟笼（Birdcage）；DS5：本地支持；DSE：未列入
+- 黑神话：悟空（Black Myth: Wukong）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- 银翼杀手：增强版（Blade Runner: Enhanced Edition）；DS5：本地支持；DSE：未列入
+- 亵渎神灵（Blasphemous）；DS5：本地支持；DSE：未列入
+- 亵渎2（Blasphemous 2）；DS5：本地支持；DSE：未列入
+- BlazBlue：熵效应（BlazBlue: Entropy Effect）；DS5：本地支持；DSE：未列入
+- 血液：刷新供应（Blood: Refreshed Supply）；DS5：本地支持；DSE：未列入
+- 血贼（Bloodthief）；DS5：本地支持；DSE：未列入
+- 蓝色王子（Blue Prince）；DS5：本地支持；DSE：未列入
+- 回旋镖 X（Boomerang X）；DS5：本地支持；DSE：未列入
+- 荆棘：山王（Bramble: The Mountain King）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- 勇敢默认飞天仙子高清重制版（Bravely Default Flying Fairy HD Remaster）；DS5：本地支持；DSE：未列入
+- BROK - 出生尾巴，新的圣诞节（BROK - Natal Tail, A New Christmas）；DS5：本地支持；DSE：未列入
+- 打破调查员（Brok the InvestiGator）；DS5：本地支持；DSE：未列入
+- 布西4D（Bubsy 4D）；DS5：本地支持；DSE：未列入
+- 铅弹轮盘赌（Buckshot Roulette）；DS5：本地支持；DSE：未列入
+- 臭虫（Bugsnax）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入
+- 凯恩（Cairn）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- 使命召唤：黑色行动 冷战（Call of Duty: Black Ops Cold War）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入
+- 使命召唤：现代战争（Call of Duty: Modern Warfare）；DS5：本地支持；DSE：未列入
+- 使命召唤：战区 2.0（Call of Duty: Warzone 2.0）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- 血腥船长（海狼工作室）（Captain Blood (Seawolf Studio)）；DS5：本地支持；DSE：未列入
+- 商队沙女巫（Caravan SandWitch）；DS5：本地支持；DSE：未列入
+- 恶魔城主宰合集（Castlevania Dominus Collection）；DS5：本地支持；DSE：未列入
+- 恶魔城：贝尔蒙特的诅咒（Castlevania: Belmont's Curse）；DS5：本地支持；DSE：未列入
+- 猫的探索 II（Cat Quest II）；DS5：本地支持；DSE：未列入
+- 猫武士（Cat Warrior）；DS5：本地支持；DSE：未列入
+- 间接伤害：重新设计（Catlateral Damage: Remeowstered）；DS5：本地支持；DSE：未列入
+- 连锁回声（Chained Echoes）；DS5：本地支持；DSE：未列入
+- 太阳之子（Children of the Sun）；DS5：本地支持；DSE：未列入
+- 草莲纱 68K（Cho Ren Sha 68K）；DS5：本地支持；DSE：未列入
+- 克拉顿X3（Cladun X3）；DS5：本地支持；DSE：未列入
+- 冲突II（Clash II）；DS5：本地支持；DSE：未列入
+- 清洁地球（Clean Up Earth）；DS5：本地支持；DSE：未列入
+- 钟楼：倒回（Clock Tower: Rewind）；DS5：本地支持；DSE：未列入
+- 克劳德海姆（Cloudheim）；DS5：本地支持；DSE：未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- 茧（Cocoon）；DS5：本地支持；DSE：未列入
+- 代码静脉II（Code Vein II）；DS5：本地支持；DSE：未列入
+- 义务兵（Conscript）；DS5：本地支持；DSE：未列入
+- 康斯坦斯（Constance）；DS5：本地支持；DSE：未列入
+- 内容警告（Content Warning）；DS5：本地支持；DSE：未列入
+- 魂斗罗：加卢加行动（Contra: Operation Galuga）；DS5：本地支持；DSE：未列入
+- 走私警察（Contraband Police）；DS5：本地支持；DSE：未列入
+- 控制谐振（Control Resonant）；DS5：本地支持；DSE：未列入
+- 科尔杜拉（Cordura）；DS5：本地支持；DSE：未列入
+- 犯罪现场清洁工（Crime Scene Cleaner）；DS5：本地支持；DSE：未列入
+- 赤红沙漠（Crimson Desert）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入
+- Crisol：偶像剧场（Crisol: Theater of Idols）；DS5：本地支持；DSE：未列入
+- 鳄鱼：戈布斯传奇 (2025)（Croc: Legend of the Gobbos (2025)）；DS5：本地支持；DSE：未列入
+- 克洛诺斯：新黎明（Cronos: The New Dawn）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- 克苏鲁：宇宙深渊（Cthulhu: The Cosmic Abyss）；DS5：本地支持；DSE：未列入
+- 立方奥德赛（Cubic Odyssey）；DS5：本地支持；DSE：未列入
+- 猩红雄鹿的诅咒（Curse of the Crimson Stag）；DS5：本地支持；DSE：未列入
+- 网络骑士：闪点（Cyber Knights: Flashpoint）；DS5：本地支持；DSE：未列入
+- 网络出租车（CyberTaxi）；DS5：本地支持；DSE：未列入
+- Cygni：枪炮齐鸣（Cygni: All Guns Blazing）；DS5：本地支持；DSE：未列入
+- Daemon X Machina：泰坦尼克号赛恩（Daemon X Machina: Titanic Scion）；DS5：本地支持；DSE：未列入
+- 黑木（Darkwood）；DS5：本地支持；DSE：未列入
+- 达尔文悖论！（Darwin's Paradox!）；DS5：本地支持；DSE：未列入
+- 潜水员戴夫（Dave the Diver）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- 往日不再（Days Gone）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- 死格式（Dead Format）；DS5：本地支持；DSE：未列入
+- 死亡重置（Dead Reset）；DS5：本地支持；DSE：未列入
+- 死亡空间（2023）（Dead Space (2023)）；DS5：本地支持；DSE：未列入
+- 死夺（Dead Take）；DS5：本地支持；DSE：未列入
+- 死核重制版（DeadCore Redux）；DS5：本地支持；DSE：未列入
+- 死必须死（Death Must Die）；DS5：本地支持；DSE：未列入
+- 死亡平方（Death Squared）；DS5：本地支持；DSE：未列入
+- 死亡搁浅 2：冥滩之上（Death Stranding 2: On the Beach）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- 死亡循环（Deathloop）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- 欺骗2（Deceit 2）；DS5：本地支持；DSE：未列入
+- 解构模拟器（Deconstruction Simulator）；DS5：本地支持；DSE：未列入
+- 深度睡眠：被遗忘者的迷宫（Deep Sleep: Labyrinth of the Forsaken）；DS5：本地支持；DSE：未列入
+- 不惜一切代价交付（Deliver at All Costs）；DS5：本地支持；DSE：未列入
+- 德尔塔卢恩（Deltarune）；DS5：本地支持；DSE：未列入
+- 鬼灭之刃-鬼灭之刃-日神编年史（Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles）；DS5：本地支持；DSE：未列入
+- 恶魔潮汐（Demon Tides）；DS5：本地支持；DSE：未列入
+- 人格解体（Depersonalization）；DS5：本地支持；DSE：未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- 侦探本能：永别了，我的爱人（Detective Instinct: Farewell, My Beloved）；DS5：本地支持；DSE：未列入
+- 杀出重围重制版（Deus Ex Remastered）；DS5：本地支持；DSE：未列入
+- 暗黑破坏神 II：狱火重生（Diablo II: Resurrected）；DS5：本地支持；DSE：未列入
+- 暗黑破坏神 IV（Diablo IV）；DS5：本地支持；DSE：未列入
+- 恐龙创伤（Dino Trauma）；DS5：本地支持；DSE：未列入
+- 指令 8020（Directive 8020）；DS5：本地支持；DSE：未列入
+- 污垢5（DIRT 5）；DS5：本地支持；DSE：未列入
+- 门徒：统治（Disciples: Domination）；DS5：本地支持；DSE：未列入
+- 停靠（Docked）；DS5：本地支持；DSE：未列入
+- 多卡蓬王国：连接（Dokapon Kingdom: Connect）；DS5：本地支持；DSE：未列入
+- 多卡蓬！愤怒之剑（Dokapon! Sword of Fury）；DS5：本地支持；DSE：未列入
+- 支石墓（Dolmen）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- 圆顶守护者（Dome Keeper）；DS5：本地支持；DSE：未列入
+- 毁灭战士 + 毁灭战士 II（Doom + Doom II）；DS5：本地支持；DSE：未列入
+- 毁灭战士 64（Doom 64）；DS5：本地支持；DSE：未列入
+- 龙珠：激神小队（Dragon Ball: Gekishin Squadra）；DS5：本地支持；DSE：未列入
+- 龙珠：火花四射！零（Dragon Ball: Sparking! Zero）；DS5：本地支持；DSE：未列入
+- 龙死了（Dragon Is Dead）；DS5：本地支持；DSE：未列入
+- 勇者斗恶龙 创世小玩家（Dragon Quest Builders）；DS5：本地支持；DSE：未列入
+- 勇者斗恶龙 I & II HD-2D 重制版（Dragon Quest I & II HD-2D Remake）；DS5：本地支持；DSE：未列入
+- 勇者斗恶龙 III HD-2D 重制版（Dragon Quest III HD-2D Remake）；DS5：本地支持；DSE：未列入
+- 龙之信条 2（Dragon's Dogma II）；DS5：本地支持；DSE：未列入
+- 恐惧圣堂武士（Dread Templar）；DS5：本地支持；DSE：未列入
+- 以太之梦（Dreams of Aether）；DS5：本地支持；DSE：未列入
+- 挖泥机（Dredge）；DS5：本地支持；DSE：未列入
+- 德罗瓦：被遗忘的亲人（Drova: Forsaken Kin）；DS5：本地支持；DSE：未列入
+- 决斗公司（Duel Corp.）；DS5：本地支持；DSE：未列入
+- 地下城遭遇（Dungeon Encounters）；DS5：本地支持；DSE：未列入
+- 消逝的光芒（Dying Light）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 需手动修复，DSE 未列入；触觉反馈：DS5 需手动修复，DSE 未列入
+- 消逝的光芒 2：人与仁之战（Dying Light 2 Stay Human）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- EA 体育 FC 24（EA Sports FC 24）；DS5：本地支持；DSE：未列入
+- 电子棒球：职业精神（Ebaseball: Pro Spirit）；DS5：本地支持；DSE：未列入
+- 末日的回响（Echoes of the End）；DS5：本地支持；DSE：未列入
+- 永恒的边缘（Edge of Eternity）；DS5：本地支持；DSE：未列入
+- 记忆的边缘（Edge of Memories）；DS5：本地支持；DSE：未列入
+- 怂恿（Egging On）；DS5：本地支持；DSE：未列入
+- 九重天（Empyreal）；DS5：本地支持；DSE：未列入
+- ENA：梦想烧烤（ENA: Dream BBQ）；DS5：本地支持；DSE：未列入
+- 安德百合：骑士的安静（Ender Lilies: Quietus of the Knights）；DS5：本地支持；DSE：未列入
+- 恐惧之谜（Enigma of Fear）；DS5：本地支持；DSE：未列入
+- 埃瑞班：暗影遗产（Ereban: Shadow Legacy）；DS5：本地支持；DSE：未列入
+- 埃里克霍姆：被偷走的梦想（Eriksholm: The Stolen Dream）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- 逃脱模拟器2（Escape Simulator 2）；DS5：本地支持；DSE：未列入
+- 深奥的落潮（Esoteric Ebb）；DS5：本地支持；DSE：未列入
+- 永恒之夜（Eternights）；DS5：本地支持；DSE：未列入
+- 异界霸主（Etrange Overlord）；DS5：本地支持；DSE：未列入
+- 永恒空间2（Everspace 2）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入
+- 每个人的高尔夫：热门击球（Everybody's Golf: Hot Shots）；DS5：本地支持；DSE：未列入
+- 进化论（Evotinction）；DS5：本地支持；DSE：未列入
+- 探险：泥泞奔跑游戏（Expeditions: A MudRunner Game）；DS5：本地支持；DSE：未列入
+- F1 2021（F1 2021）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入
+- 仙女击剑F（Fairy Fencer F）；DS5：本地支持；DSE：未列入
+- 妖精的尾巴2（Fairy Tail 2）；DS5：本地支持；DSE：未列入
+- 秋天的家伙（Fall Guys）；DS5：本地支持；DSE：未列入
+- 幻想新维度（Fantasian Neo Dimension）；DS5：本地支持；DSE：未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- 孤岛惊魂6（Far Cry 6）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- 法马吉亚（Farmagia）；DS5：本地支持；DSE：未列入
+- 致命框架2：绯红蝴蝶重制版（Fatal Frame II: Crimson Butterfly Remake）；DS5：本地支持；DSE：未列入
+- 饿狼传说：狼之城（Fatal Fury: City of the Wolves）；DS5：本地支持；DSE：未列入
+- 命运/空心阿塔拉克西娅重制版（Fate/Hollow Ataraxia Remastered）；DS5：本地支持；DSE：未列入
+- 命运之夜重制版（Fate/Stay Night Remastered）；DS5：本地支持；DSE：未列入
+- 害怕聚光灯（Fear the Spotlight）；DS5：本地支持；DSE：未列入
+- 菲尔伍兹（Fearwoods）；DS5：本地支持；DSE：未列入
+- 图2：信条谷（Figment 2: Creed Valley）；DS5：本地支持；DSE：未列入
+- 最终幻想 VII：重生（Final Fantasy VII Rebirth）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- 最终幻想 VII 重制版 Intergrade（Final Fantasy VII Remake Intergrade）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- 肉与线（Flesh & Wire）；DS5：本地支持；DSE：未列入
+- 燧石：遗忘宝藏（Flint: Treasure of Oblivion）；DS5：本地支持；DSE：未列入
+- 遗忘（Forgotlings）；DS5：本地支持；DSE：未列入
+- 狐狸饺子（Foxy Dumplings）；DS5：本地支持；DSE：未列入
+- 碎片朋克（FragPunk）；DS5：本地支持；DSE：未列入
+- 镶框收藏（Framed Collection）；DS5：本地支持；DSE：未列入
+- 自由战争重制版（Freedom Wars Remastered）；DS5：本地支持；DSE：未列入
+- 星期五晚上狂欢（Friday Night Funkin'）；DS5：本地支持；DSE：未列入
+- 前线任务 2：重制版（Front Mission 2: Remake）；DS5：本地支持；DSE：未列入
+- 前线任务 3：重制版（Front Mission 3: Remake）；DS5：本地支持；DSE：未列入
+- 福尼浣熊游戏（Funi Raccoon Game）；DS5：本地支持；DSE：未列入
+- 芬科融合（Funko Fusion）；DS5：本地支持；DSE：未列入
+- 加尔守护者：黑暗之仆（Gal Guardians: Servants of the Dark）；DS5：本地支持；DSE：未列入
+- 舍伍德帮（Gangs of Sherwood）；DS5：本地支持；DSE：未列入
+- 花园故事（Garden Story）；DS5：本地支持；DSE：未列入
+- 战争机器：重装上阵（Gears of War: Reloaded）；DS5：本地支持；DSE：未列入
+- 神神：哪吒（Genigods: Nezha）；DS5：本地支持；DSE：未列入
+- 基因小孩（Genokids）；DS5：本地支持；DSE：未列入
+- 格尔达：冬天的火焰（Gerda: A Flame in Winter）；DS5：本地支持；DSE：未列入
+- 报仇（Get Even）；DS5：本地支持；DSE：未列入
+- 幽灵行者2（Ghostrunner 2）；DS5：本地支持；DSE：未列入
+- 阴沉的眼睛（Gloomy Eyes）；DS5：本地支持；DSE：未列入
+- 回家安妮（Go Home Annie）；DS5：本地支持；DSE：未列入
+- 走吧！去！仓鼠大厨！（Go! Go! Hamster Chef!）；DS5：本地支持；DSE：未列入
+- 哥布林维克：盗贼大亨（Goblin Vyke: The Thief Tycoon）；DS5：本地支持；DSE：未列入
+- 战神（God of War）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 需手动修复，DSE 未列入
+- 破神者（Godbreakers）；DS5：本地支持；DSE：未列入
+- 哥斯拉体素战争（Godzilla Voxel Wars）；DS5：本地支持；DSE：未列入
+- 碧蓝幻想对战：崛起（Granblue Fantasy Versus: Rising）；DS5：本地支持；DSE：未列入
+- 贪婪之秋：垂死的世界（GreedFall: The Dying World）；DS5：本地支持；DSE：未列入
+- 污垢（Grime）；DS5：本地支持；DSE：未列入
+- 污垢II（Grime II）；DS5：本地支持；DSE：未列入
+- 枪火重生（Gunfire Reborn）；DS5：本地支持；DSE：未列入
+- 哈迪斯 II（Hades II）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入
+- 向彩虹致敬（Hail to the Rainbow）；DS5：本地支持；DSE：未列入
+- 万圣节（Halloween）；DS5：本地支持；DSE：未列入
+- 哈罗德大比目鱼（Harold Halibut）；DS5：本地支持；DSE：未列入
+- 急速（Haste）；DS5：本地支持；DSE：未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- 祝你死得愉快（Have a Nice Death）；DS5：本地支持；DSE：未列入
+- 心丝虫（Heartworm）；DS5：本地支持；DSE：未列入
+- 海夫豪 2（Heave Ho 2）；DS5：本地支持；DSE：未列入
+- 你好陌生人（Hello Stranger）；DS5：本地支持；DSE：未列入
+- 高尚的生活（High on Life）；DS5：本地支持；DSE：未列入
+- 空洞骑士：丝之歌（Hollow Knight: Silksong）；DS5：本地支持；DSE：未列入
+- HoloCure - 拯救粉丝！（HoloCure - Save the Fans!）；DS5：本地支持；DSE：未列入
+- Hololive宝山（Hololive Treasure Mountain）；DS5：本地支持；DSE：未列入
+- 焰姬（Homura Hime）；DS5：本地支持；DSE：未列入
+- 地平线猎人聚会（Horizon Hunters Gathering）；DS5：本地支持；DSE：未列入
+- 热熔岩（Hot Lava）；DS5：本地支持；DSE：未列入
+- 腐烂之屋（House of Decay）；DS5：本地支持；DSE：未列入
+- 超级光破坏者（Hyper Light Breaker）；DS5：本地支持；DSE：未列入
+- 我还活着（I Am Alive）；DS5：本地支持；DSE：未列入
+- 我是耶稣基督（I Am Jesus Christ）；DS5：本地支持；DSE：未列入
+- 我讨厌这个地方（I Hate This Place）；DS5：本地支持；DSE：未列入
+- 生熊 冰冻罗盘（Ikuma The Frozen Compass）；DS5：本地支持；DSE：未列入
+- 工业2（Industria 2）；DS5：本地支持；DSE：未列入
+- 侵入（Ingression）；DS5：本地支持；DSE：未列入
+- 幕后密室（Inside the Backrooms）；DS5：本地支持；DSE：未列入
+- 无敌礼物：原子夏娃（Invincible Presents: Atom Eve）；DS5：本地支持；DSE：未列入
+- 无敌VS（Invincible VS）；DS5：本地支持；DSE：未列入
+- 愤怒：序幕（Ire: A Prologue）；DS5：本地支持；DSE：未列入
+- 铁荆棘（Iron Bramble）；DS5：本地支持；DSE：未列入
+- 铁肺（Iron Lung）；DS5：本地支持；DSE：未列入
+- 双人成行（It Takes Two）；DS5：本地支持；DSE：未列入
+- 杰伊和沉默鲍勃：慢性钝击（Jay and Silent Bob: Chronic Blunt Punch）；DS5：本地支持；DSE：未列入
+- 约翰·卡朋特的有毒突击队（John Carpenter's Toxic Commando）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入
+- 审判之眼：死神的遗言（Judgment）；DS5：本地支持；DSE：未列入
+- 跳跃的爵士猫（Jumping Jazz Cats）；DS5：本地支持；DSE：未列入
+- 卡塔诺特（Katanaut）；DS5：本地支持；DSE：未列入
+- 柯娜：科斯莫拉之痕（Kena: Scars of Kosmora）；DS5：本地支持；DSE：未列入
+- 基博格（Kiborg）；DS5：本地支持；DSE：未列入
+- 基堡：竞技场（Kiborg: Arena）；DS5：本地支持；DSE：未列入
+- 杀手7（Killer7）；DS5：本地支持；DSE：未列入
+- 杀戮时间：复活（Killing Time: Resurrected）；DS5：本地支持；DSE：未列入
+- 天国：拯救 II（Kingdom Come: Deliverance II）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入
+- 王国：八十年代（Kingdom: Eighties）；DS5：本地支持；DSE：未列入
+- 主销：重装上阵（Kingpin: Reloaded）；DS5：本地支持；DSE：未列入
+- 狭小空间中的骑士（Knights in Tight Spaces）；DS5：本地支持；DSE：未列入
+- 小伊拉（Koira）；DS5：本地支持；DSE：未列入
+- 科什马尔：最后的遐想（Koshmar: The Last Reverie）；DS5：本地支持；DSE：未列入
+- 小玉和学院城堡（Kotama and Academy Citadel）；DS5：本地支持；DSE：未列入
+- 拉基梅拉（La Quimera）；DS5：本地支持；DSE：未列入
+- 最后纪元（Last Epoch）；DS5：本地支持；DSE：未列入
+- 洗衣模拟器（Laundering Simulator）；DS5：本地支持；DSE：未列入
+- 求生之路 2（Left 4 Dead 2）；DS5：本地支持；DSE：未列入
+- 凯恩的遗产：崛起（Legacy of Kain: Ascendance）；DS5：本地支持；DSE：未列入
+- 凯恩的遗产：反抗重制版（Legacy of Kain: Defiance Remastered）；DS5：本地支持；DSE：未列入
+- 凯恩的遗产：灵魂掠夺者 1 和 2 重制版（Legacy of Kain: Soul Reaver 1 & 2 Remastered）；DS5：本地支持；DSE：未列入
+- 乐高地平线历险记（Lego Horizon Adventures）；DS5：本地支持；DSE：未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- 乐高派对（Lego Party）；DS5：本地支持；DSE：未列入
+- 乐高星球大战：天行者传奇（Lego Star Wars: The Skywalker Saga）；DS5：本地支持；DSE：未列入
+- 乐高航海者号（Lego Voyagers）；DS5：本地支持；DSE：未列入
+- 奇异人生：重聚（Life Is Strange: Reunion）；DS5：本地支持；DSE：未列入
+- 人中之龙7外传：无名之龙（Like a Dragon Gaiden: The Man Who Erased His Name）；DS5：本地支持；DSE：未列入
+- 人中之龙 8（Like a Dragon: Infinite Wealth）；DS5：本地支持；DSE：未列入
+- 人中之龙 维新！极（Like a Dragon: Ishin!）；DS5：本地支持；DSE：未列入
+- 小鳄鱼游戏（Lil Gator Game）；DS5：本地支持；DSE：未列入
+- 小猫咪，大城市（Little Kitty, Big City）；DS5：本地支持；DSE：未列入
+- 小小噩梦加强版（Little Nightmares Enhanced Edition）；DS5：本地支持；DSE：未列入
+- 小小噩梦 III（Little Nightmares III）；DS5：本地支持；DSE：未列入
+- 孤独的山脉：下坡（Lonely Mountains: Downhill）；DS5：本地支持；DSE：未列入
+- 孤山：雪骑士（Lonely Mountains: Snow Riders）；DS5：本地支持；DSE：未列入
+- 失落的城堡（Lost Castle）；DS5：本地支持；DSE：未列入
+- 失落的幻象：女巫的面纱（Lost Eidolons: Veil of the Witch）；DS5：本地支持；DSE：未列入
+- 审判之逝：湮灭的记忆（Lost Judgment）；DS5：本地支持；DSE：未列入
+- 楼兰：诅咒之沙（Loulan: The Cursed Sand）；DS5：本地支持；DSE：未列入
+- 洛维什（Lovish）；DS5：本地支持；DSE：未列入
+- 四海兄弟：故乡（Mafia: The Old Country）；DS5：本地支持；DSE：未列入
+- 曼陀罗：女巫树的低语（Mandragora: Whispers of the Witch Tree）；DS5：本地支持；DSE：未列入
+- 马拉松（2026）（Marathon (2026)）；DS5：本地支持；DSE：未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- 马里奥赛车 64（意大利面条卡丁车）（Mario Kart 64 (SpaghettiKart)）；DS5：本地支持；DSE：未列入
+- 戒严：我们的春天（Martial Law: Our Spring）；DS5：本地支持；DSE：未列入
+- 洛克人星际力量遗产系列（Mega Man Star Force Legacy Collection）；DS5：本地支持；DSE：未列入
+- 百万吨级武藏：有线（Megaton Musashi: Wired）；DS5：本地支持；DSE：未列入
+- 合金装备 Δ：食蛇者（Metal Gear Solid Δ: Snake Eater）；DS5：本地支持；DSE：未列入；触觉反馈：DS5 限制支持，DSE 未列入
+- 合金弹头攻击重装上阵（Metal Slug Attack Reloaded）；DS5：本地支持；DSE：未列入
+- 合金弹头战术（Metal Slug Tactics）；DS5：本地支持；DSE：未列入
+- 地铁：离去 增强版（Metro Exodus Enhanced Edition）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- 妙见基因（Mewgenics）；DS5：本地支持；DSE：未列入
+- 空心者米娜（Mina the Hollower）；DS5：本地支持；DSE：未列入
+- 心灵感应磁铁（Mind Over Magnet）；DS5：本地支持；DSE：未列入
+- 心灵之眼（MindsEye）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- MIO：轨道上的记忆（MIO: Memories in Orbit）；DS5：本地支持；DSE：未列入
+- 怪物猎人物语（Monster Hunter Stories）；DS5：本地支持；DSE：未列入
+- 纪念碑谷 2：全景版（Monument Valley 2: Panoramic Edition）；DS5：本地支持；DSE：未列入
+- 纪念碑谷3（Monument Valley 3）；DS5：本地支持；DSE：未列入
+- 纪念碑谷：全景版（Monument Valley: Panoramic Edition）；DS5：本地支持；DSE：未列入
+- 姆明滚动：冬日的温暖（Moomintroll: Winter's Warmth）；DS5：本地支持；DSE：未列入
+- 病态金属（Morbid Metal）；DS5：本地支持；DSE：未列入
+- 母亲：安可（MOTHER: Encore）；DS5：本地支持；DSE：未列入
+- 鼠标：P.I.出租（Mouse: P.I. For Hire）；DS5：本地支持；DSE：未列入
+- 纳斯卡 25（NASCAR 25）；DS5：本地支持；DSE：未列入
+- 海王星骑士 VS 杜古斯（Neptunia Riders VS Dogoos）；DS5：本地支持；DSE：未列入
+- 幽冥盟约（Netherworld Covenant）；DS5：本地支持；DSE：未列入
+- 涅瓦河（Neva）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入
+- 永不坟墓：女巫与诅咒（Never Grave: The Witch and The Curse）；DS5：本地支持；DSE：未列入
+- 从永远到永远（Neverness to Everness）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- 尼克频道全明星乱斗 2（Nickelodeon All-Star Brawl 2）；DS5：本地支持；DSE：未列入
+- 尼格特故事（Nigate Tale）；DS5：本地支持；DSE：未列入
+- 夜跑者序幕（Night-Runners Prologue）；DS5：本地支持；DSE：未列入
+- 仁王 3（Nioh 3）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- 仁王 完全版（Nioh: Complete Edition）；DS5：本地支持；DSE：未列入
+- 没有法律（No Law）；DS5：本地支持；DSE：未列入
+- 不再下雪了（No More Snow）；DS5：本地支持；DSE：未列入
+- 恶人不得安息（No Rest for the Wicked）；DS5：本地支持；DSE：未列入
+- 为了要约会不睡觉（No Sleep For Kaname Date）；DS5：本地支持；DSE：未列入
+- 不，我不是人类（No, I'm Not a Human）；DS5：本地支持；DSE：未列入
+- 夜间2（Nocturnal 2）；DS5：本地支持；DSE：未列入
+- NODE：安塔里人的最后恩惠（NODE: The Last Favor of the Antarii）；DS5：本地支持；DSE：未列入
+- 诺伊塔（Noita）；DS5：本地支持；DSE：未列入
+- 无处可去，密歇根州（Nowhere, MI）；DS5：本地支持；DSE：未列入
+- 对象无常（Object Impermanence）；DS5：本地支持；DSE：未列入
+- 八方旅人 0（Octopath Traveler 0）；DS5：本地支持；DSE：未列入
+- 关闭（2025）（OFF (2025)）；DS5：本地支持；DSE：未列入
+- OlliOlli2：欢迎来到 Olliwood（OlliOlli2: Welcome to Olliwood）；DS5：本地支持；DSE：未列入
+- 片魂从前（Once Upon a Katamari）；DS5：本地支持；DSE：未列入
+- 独眼利科（One-Eyed Likho）；DS5：本地支持；DSE：未列入
+- 作品：棱镜峰（Opus: Prism Peak）；DS5：本地支持；DSE：未列入
+- 其他皮肤（Otherskin）；DS5：本地支持；DSE：未列入
+- 看不见的地方（Out of Sight）；DS5：本地支持；DSE：未列入
+- 出境（Outbound）；DS5：本地支持；DSE：未列入
+- 外向2（Outward 2）；DS5：本地支持；DSE：未列入
+- 超自然车旅（Pacific Drive）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- 止痛药 (2025)（Painkiller (2025)）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- 寄生虫突变体（Parasite Mutant）；DS5：本地支持；DSE：未列入
+- 包裹军团（Parcel Corps）；DS5：本地支持；DSE：未列入
+- 猛兽派对（Party Animals）；DS5：本地支持；DSE：未列入
+- 帕塔蓬 1 + 2 重播（Patapon 1 + 2 Replay）；DS5：本地支持；DSE：未列入
+- 病理3（Pathologic 3）；DS5：本地支持；DSE：未列入
+- 收获日 3（Payday 3）；DS5：本地支持；DSE：未列入
+- 昔日的山峰（Peaks of Yore）；DS5：本地支持；DSE：未列入
+- 佩妮的大突破（Penny's Big Breakaway）；DS5：本地支持；DSE：未列入
+- 胡椒研磨机（Pepper Grinder）；DS5：本地支持；DSE：未列入
+- 女神异闻录 3 携带版（Persona 3 Portable）；DS5：本地支持；DSE：未列入
+- 女神异闻录 3 Reload（Persona 3 Reload）；DS5：本地支持；DSE：未列入
+- 幻影勇者：失落的英雄（Phantom Brave: The Lost Hero）；DS5：本地支持；DSE：未列入
+- 幻影破坏者：终极战场（Phantom Breaker: Battle Grounds Ultimate）；DS5：本地支持；DSE：未列入
+- 恐惧症（Phasmophobia）；DS5：本地支持；DSE：未列入
+- 松树：一个关于失落的故事（Pine: A Story of Loss）；DS5：本地支持；DSE：未列入
+- 皮皮斯特雷罗和被诅咒的溜溜球（Pipistrello and the Cursed Yoyo）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入
+- 拉娜星球II（Planet of Lana II）；DS5：本地支持；DSE：未列入
+- 植物大战僵尸：重新种植（Plants vs. Zombies: Replanted）；DS5：本地支持；DSE：未列入
+- 水管工不打领带：最终版（Plumbers Don't Wear Ties: Definitive Edition）；DS5：本地支持；DSE：未列入
+- 拥有者（Possessor(s)）；DS5：本地支持；DSE：未列入
+- PowerSlave 被挖掘出来（PowerSlave Exhumed）；DS5：本地支持；DSE：未列入
+- PowerWash 模拟器（PowerWash Simulator）；DS5：本地支持；DSE：未列入
+- 前任（Predecessor）；DS5：本地支持；DSE：未列入
+- 彩色山脉计划（Project Colored Mountains）；DS5：本地支持；DSE：未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- 赛车计划（Project Motor Racing）；DS5：本地支持；DSE：未列入
+- 项目重燃（Project Reignition）；DS5：本地支持；DSE：未列入
+- 影子玻璃计划（Project Shadowglass）；DS5：本地支持；DSE：未列入
+- 鸣鸟计划（Project Songbird）；DS5：本地支持；DSE：未列入
+- 心理死亡（Psycho Dead）；DS5：本地支持；DSE：未列入
+- 脑航员 2（Psychonauts 2）；DS5：本地支持；DSE：未列入
+- 毫不留情（Pulling No Punches）；DS5：本地支持；DSE：未列入
+- 南瓜杰克（Pumpkin Jack）；DS5：本地支持；DSE：未列入
+- 纯池专业版（Pure Pool Pro）；DS5：本地支持；DSE：未列入
+- 噗哟噗哟发烧（Puyo Puyo Fever）；DS5：本地支持；DSE：未列入
+- 地震增强版（Quake Enhanced）；DS5：本地支持；DSE：未列入
+- 雷神之锤 II 增强版（Quake II Enhanced）；DS5：本地支持；DSE：未列入
+- Quest Master（Quest Master）；DS5：本地支持；DSE：未列入
+- Raccoo Venture（Raccoo Venture）；DS5：本地支持；DSE：未列入
+- Rage of the Dragons NEO（Rage of the Dragons NEO）；DS5：本地支持；DSE：未列入
+- Raidou Remastered: The Mystery of the Soulless Army（Raidou Remastered: The Mystery of the Soulless Army）；DS5：本地支持；DSE：未列入
+- Raji: Kaliyuga（Raji: Kaliyuga）；DS5：本地支持；DSE：未列入
+- Ravenswatch（Ravenswatch）；DS5：本地支持；DSE：未列入
+- 严阵以待（Ready or Not）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入
+- Realm of Ink（Realm of Ink）；DS5：本地支持；DSE：未列入
+- Redacted（Redacted）；DS5：本地支持；DSE：未列入
+- Relooted（Relooted）；DS5：本地支持；DSE：未列入
+- Remember Me（Remember Me）；DS5：本地支持；DSE：未列入
+- Replaced（Replaced）；DS5：本地支持；DSE：未列入
+- Retro City Rampage（Retro City Rampage）；DS5：本地支持；DSE：未列入
+- Reynatis（Reynatis）；DS5：本地支持；DSE：未列入
+- Rhythm Doctor（Rhythm Doctor）；DS5：本地支持；DSE：未列入
+- Riders Republic（Riders Republic）；DS5：本地支持；DSE：未列入
+- Rise of the Triad: Ludicrous Edition（Rise of the Triad: Ludicrous Edition）；DS5：本地支持；DSE：未列入
+- 雨中冒险 2（Risk of Rain 2）；DS5：本地支持；DSE：未列入
+- Rivals of Aether II（Rivals of Aether II）；DS5：本地支持；DSE：未列入
+- Riven (2024)（Riven (2024)）；DS5：本地支持；DSE：未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- RoadCraft（RoadCraft）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- RoboCop: Rogue City - Unfinished Business（RoboCop: Rogue City - Unfinished Business）；DS5：本地支持；DSE：未列入
+- Rollerdrome（Rollerdrome）；DS5：本地支持；DSE：未列入
+- Rosalie's Mupen GUI（Rosalie's Mupen GUI）；DS5：本地支持；DSE：未列入
+- Ruffy and the Riverside（Ruffy and the Riverside）；DS5：本地支持；DSE：未列入
+- Rune Factory: Guardians of Azuma（Rune Factory: Guardians of Azuma）；DS5：本地支持；DSE：未列入
+- Rusty Rabbit（Rusty Rabbit）；DS5：本地支持；DSE：未列入
+- 潜行者 2：切尔诺贝利之心（S.T.A.L.K.E.R. 2: Heart of Chornobyl）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- S.T.A.L.K.E.R.: Call of Prypiat Enhanced Edition（S.T.A.L.K.E.R.: Call of Prypiat Enhanced Edition）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入
+- S.T.A.L.K.E.R.: Clear Sky Enhanced Edition（S.T.A.L.K.E.R.: Clear Sky Enhanced Edition）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入
+- S.T.A.L.K.E.R.: Shadow of Chornobyl Enhanced Edition（S.T.A.L.K.E.R.: Shadow of Chornobyl Enhanced Edition）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入
+- 麻布仔大冒险（Sackboy: A Big Adventure）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- Sacred 2: Remaster（Sacred 2: Remaster）；DS5：本地支持；DSE：未列入
+- 黑道圣徒（Saints Row）；DS5：本地支持；DSE：未列入
+- Samurai Warriors 4 DX（Samurai Warriors 4 DX）；DS5：本地支持；DSE：未列入
+- Satisfactory（Satisfactory）；DS5：本地支持；DSE：未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- Save Room - Organization Puzzle（Save Room - Organization Puzzle）；DS5：本地支持；DSE：未列入
+- Scar-Lead Salvation（Scar-Lead Salvation）；DS5：本地支持；DSE：未列入
+- 绯红结系（Scarlet Nexus）；DS5：本地支持；DSE：未列入
+- SCHiM（SCHiM）；DS5：本地支持；DSE：未列入
+- Schrott（Schrott）；DS5：本地支持；DSE：未列入
+- 盗贼之海（Sea of Thieves）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- SEASON: A letter to the future（SEASON: A letter to the future）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- Shadow Labyrinth（Shadow Labyrinth）；DS5：本地支持；DSE：未列入
+- 古墓丽影：暗影（Shadow of the Tomb Raider）；DS5：本地支持；DSE：未列入
+- Shadows of the Damned: Hella Remastered（Shadows of the Damned: Hella Remastered）；DS5：本地支持；DSE：未列入
+- Shakedown: Hawaii（Shakedown: Hawaii）；DS5：本地支持；DSE：未列入
+- She's Leaving（She's Leaving）；DS5：本地支持；DSE：未列入
+- Shinobi: Art of Vengeance（Shinobi: Art of Vengeance）；DS5：本地支持；DSE：未列入
+- 师父（Sifu）；DS5：本地支持；DSE：未列入
+- Signalis（Signalis）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入
+- 寂静岭 f（Silent Hill f）；DS5：本地支持；DSE：未列入
+- Silent Hill: Townfall（Silent Hill: Townfall）；DS5：本地支持；DSE：未列入
+- Silver Pines（Silver Pines）；DS5：本地支持；DSE：未列入
+- Skate Story（Skate Story）；DS5：本地支持；DSE：未列入
+- Sker Ritual（Sker Ritual）；DS5：本地支持；DSE：未列入
+- Skul: The Hero Slayer（Skul: The Hero Slayer）；DS5：本地支持；DSE：未列入
+- Slay the Spire 2（Slay the Spire 2）；DS5：本地支持；DSE：未列入
+- Sleep Awake（Sleep Awake）；DS5：本地支持；DSE：未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- Slitterhead（Slitterhead）；DS5：本地支持；DSE：未列入
+- Smite 2（Smite 2）；DS5：本地支持；DSE：未列入
+- SNK vs. Capcom: SVC Chaos（SNK vs. Capcom: SVC Chaos）；DS5：本地支持；DSE：未列入
+- Solar Ash（Solar Ash）；DS5：本地支持；DSE：未列入
+- Solo Leveling: Arise（Solo Leveling: Arise）；DS5：本地支持；DSE：未列入
+- Someday You'll Return: Director's Cut（Someday You'll Return: Director's Cut）；DS5：本地支持；DSE：未列入
+- Somerville（Somerville）；DS5：本地支持；DSE：未列入
+- Songs of Silence（Songs of Silence）；DS5：本地支持；DSE：未列入
+- Sonic Battle Framework（Sonic Battle Framework）；DS5：本地支持；DSE：未列入
+- Sonic Galactic（Sonic Galactic）；DS5：本地支持；DSE：未列入
+- Sonic P-06（Sonic P-06）；DS5：本地支持；DSE：未列入
+- Sonic Rush 3D（Sonic Rush 3D）；DS5：本地支持；DSE：未列入
+- 索尼克 超级巨星（Sonic Superstars）；DS5：本地支持；DSE：未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- 森林之子（Sons of the Forest）；DS5：本地支持；DSE：未列入
+- Sons of Valhalla（Sons of Valhalla）；DS5：本地支持；DSE：未列入
+- Soulframe（Soulframe）；DS5：本地支持；DSE：未列入
+- Soulstice（Soulstice）；DS5：本地支持；DSE：未列入
+- South of the Circle（South of the Circle）；DS5：本地支持；DSE：未列入
+- Space for Sale（Space for Sale）；DS5：本地支持；DSE：未列入
+- Sparky Rush: Purrils in Pawsville!（Sparky Rush: Purrils in Pawsville!）；DS5：本地支持；DSE：未列入
+- Spine（Spine）；DS5：本地支持；DSE：未列入
+- Split Fiction（Split Fiction）；DS5：本地支持；DSE：未列入
+- SpongeBob SquarePants: The Patrick Star Game（SpongeBob SquarePants: The Patrick Star Game）；DS5：本地支持；DSE：未列入
+- SPYxANYA: Operation Memories（SPYxANYA: Operation Memories）；DS5：本地支持；DSE：未列入
+- Star Fox 64 (Starship)（Star Fox 64 (Starship)）；DS5：本地支持；DSE：未列入
+- Star Ocean: The Second Story R（Star Ocean: The Second Story R）；DS5：本地支持；DSE：未列入
+- Star Overdrive（Star Overdrive）；DS5：本地支持；DSE：未列入
+- 星球大战 绝地：幸存者（Star Wars Jedi: Survivor）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- Star Wars: Bounty Hunter（Star Wars: Bounty Hunter）；DS5：本地支持；DSE：未列入
+- Star Wars: Dark Forces Remaster（Star Wars: Dark Forces Remaster）；DS5：本地支持；DSE：未列入
+- Star Wars: Rogue Squadron 3D（Star Wars: Rogue Squadron 3D）；DS5：本地支持；DSE：未列入
+- Star Wars: Shadows of the Empire（Star Wars: Shadows of the Empire）；DS5：本地支持；DSE：未列入
+- Star Wars: Starfighter（Star Wars: Starfighter）；DS5：本地支持；DSE：未列入
+- Star Wars: Zero Company（Star Wars: Zero Company）；DS5：本地支持；DSE：未列入
+- 星露谷物语（Stardew Valley）；DS5：本地支持；DSE：未列入
+- Starsand Island（Starsand Island）；DS5：本地支持；DSE：未列入
+- Still Wakes the Deep（Still Wakes the Deep）；DS5：本地支持；DSE：未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- Stranded: Alien Dawn（Stranded: Alien Dawn）；DS5：本地支持；DSE：未列入
+- Stranger of Paradise: Final Fantasy Origin（Stranger of Paradise: Final Fantasy Origin）；DS5：本地支持；DSE：未列入
+- 迷失（Stray）；DS5：本地支持；DSE：未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- Strife: Veteran Edition（Strife: Veteran Edition）；DS5：本地支持；DSE：未列入
+- Styx: Blades of Greed（Styx: Blades of Greed）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- 深海迷航 2（Subnautica 2）；DS5：本地支持；DSE：未列入
+- 自杀小队：消灭正义联盟（Suicide Squad: Kill the Justice League）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入
+- Suikoden I & II HD Remaster Gate Rune and Dunan Unification Wars（Suikoden I & II HD Remaster Gate Rune and Dunan Unification Wars）；DS5：本地支持；DSE：未列入
+- Sulfur（Sulfur）；DS5：本地支持；DSE：未列入
+- Super Mario Bros. Remastered（Super Mario Bros. Remastered）；DS5：本地支持；DSE：未列入
+- Super Mario World Remastered（Super Mario World Remastered）；DS5：本地支持；DSE：未列入
+- Super Meat Boy 3D（Super Meat Boy 3D）；DS5：本地支持；DSE：未列入
+- Super Robot Wars Y（Super Robot Wars Y）；DS5：本地支持；DSE：未列入
+- Superhero Simulator（Superhero Simulator）；DS5：本地支持；DSE：未列入
+- Sushi Ben（Sushi Ben）；DS5：本地支持；DSE：未列入
+- Sword Art Online: Fractured Daydream（Sword Art Online: Fractured Daydream）；DS5：本地支持；DSE：未列入
+- Sword of the Sea（Sword of the Sea）；DS5：本地支持；DSE：未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- Syberia - Remastered（Syberia - Remastered）；DS5：本地支持；DSE：未列入
+- Synduality: Echo of Ada（Synduality: Echo of Ada）；DS5：本地支持；DSE：未列入
+- Taiko no Tatsujin: Rhythm Festival（Taiko no Tatsujin: Rhythm Festival）；DS5：本地支持；DSE：未列入
+- Tails of Iron 2: Whiskers of Winter（Tails of Iron 2: Whiskers of Winter）；DS5：本地支持；DSE：未列入
+- Tainted Grail: The Fall of Avalon（Tainted Grail: The Fall of Avalon）；DS5：本地支持；DSE：未列入
+- Tales of Berseria Remastered（Tales of Berseria Remastered）；DS5：本地支持；DSE：未列入
+- Tales of Graces f Remastered（Tales of Graces f Remastered）；DS5：本地支持；DSE：未列入
+- Tales of Xillia Remastered（Tales of Xillia Remastered）；DS5：本地支持；DSE：未列入
+- Teenage Mutant Ninja Turtles: Shredder's Revenge（Teenage Mutant Ninja Turtles: Shredder's Revenge）；DS5：本地支持；DSE：未列入
+- 铁拳 8（Tekken 8）；DS5：本地支持；DSE：未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- Terra Memoria（Terra Memoria）；DS5：本地支持；DSE：未列入
+- Terrifier The ARTcade Game（Terrifier The ARTcade Game）；DS5：本地支持；DSE：未列入
+- Test Drive Unlimited Solar Crown（Test Drive Unlimited Solar Crown）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入
+- Thank Goodness You're Here!（Thank Goodness You're Here!）；DS5：本地支持；DSE：未列入
+- The Adventures of Elliot: The Millennium Tales（The Adventures of Elliot: The Millennium Tales）；DS5：本地支持；DSE：未列入
+- The Alters（The Alters）；DS5：本地支持；DSE：未列入
+- The Big Catch: Tacklebox（The Big Catch: Tacklebox）；DS5：本地支持；DSE：未列入
+- The Binding of Isaac: Rebirth（The Binding of Isaac: Rebirth）；DS5：本地支持；DSE：未列入
+- The Blood of Dawnwalker（The Blood of Dawnwalker）；DS5：本地支持；DSE：未列入
+- The Case of the Dark Strangler（The Case of the Dark Strangler）；DS5：本地支持；DSE：未列入
+- The Chant（The Chant）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入
+- The Cub（The Cub）；DS5：本地支持；DSE：未列入
+- The Cube (Mundfish)（The Cube (Mundfish)）；DS5：本地支持；DSE：未列入
+- The Darkside Detective: Backside of the Moon（The Darkside Detective: Backside of the Moon）；DS5：本地支持；DSE：未列入
+- 最终决战（The Finals）；DS5：本地支持；DSE：未列入
+- 第一狂战士：卡赞（The First Berserker: Khazan）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- The God Slayer（The God Slayer）；DS5：本地支持；DSE：未列入
+- The House of the Dead 2: Remake（The House of the Dead 2: Remake）；DS5：本地支持；DSE：未列入
+- The House of the Dead: Remake（The House of the Dead: Remake）；DS5：本地支持；DSE：未列入
+- The Hundred Line -Last Defense Academy-（The Hundred Line -Last Defense Academy-）；DS5：本地支持；DSE：未列入
+- The Inquisitor (2024)（The Inquisitor (2024)）；DS5：本地支持；DSE：未列入
+- The King of Fighters XIII Global Match（The King of Fighters XIII Global Match）；DS5：本地支持；DSE：未列入
+- The Last Caretaker（The Last Caretaker）；DS5：本地支持；DSE：未列入
+- 最后的信仰（The Last Faith）；DS5：本地支持；DSE：未列入
+- The Legend of Heroes: Trails through Daybreak II（The Legend of Heroes: Trails through Daybreak II）；DS5：本地支持；DSE：未列入
+- The Legend of Legacy HD Remastered（The Legend of Legacy HD Remastered）；DS5：本地支持；DSE：未列入
+- The Legend of Zelda: A Link to the Past（The Legend of Zelda: A Link to the Past）；DS5：本地支持；DSE：未列入
+- The Legend of Zelda: Majora's Mask (2 Ship 2 Harkinian)（The Legend of Zelda: Majora's Mask (2 Ship 2 Harkinian)）；DS5：本地支持；DSE：未列入
+- The Legend of Zelda: Majora's Mask (Zelda 64: Recompiled)（The Legend of Zelda: Majora's Mask (Zelda 64: Recompiled)）；DS5：本地支持；DSE：未列入
+- The Legend of Zelda: Ocarina of Time (Ship of Harkinian)（The Legend of Zelda: Ocarina of Time (Ship of Harkinian)）；DS5：本地支持；DSE：未列入
+- The Legend of Zelda: Twilight Princess (Dusk)（The Legend of Zelda: Twilight Princess (Dusk)）；DS5：本地支持；DSE：未列入
+- The Midnight Walk（The Midnight Walk）；DS5：本地支持；DSE：未列入
+- The Occultist（The Occultist）；DS5：本地支持；DSE：未列入
+- The Riftbreaker（The Riftbreaker）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入
+- The Séance of Blake Manor（The Séance of Blake Manor）；DS5：本地支持；DSE：未列入
+- The Seven Deadly Sins: Origin（The Seven Deadly Sins: Origin）；DS5：本地支持；DSE：未列入
+- The Shore（The Shore）；DS5：本地支持；DSE：未列入
+- The Sinking City 2（The Sinking City 2）；DS5：本地支持；DSE：未列入
+- The Thing: Remastered（The Thing: Remastered）；DS5：本地支持；DSE：未列入
+- 巫师 3：狂猎（The Witcher 3: Wild Hunt）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入
+- Thief Simulator 3（Thief Simulator 3）；DS5：本地支持；DSE：未列入
+- Thunder Ray（Thunder Ray）；DS5：本地支持；DSE：未列入
+- Tides of Annihilation（Tides of Annihilation）；DS5：本地支持；DSE：未列入
+- Tides of Tomorrow（Tides of Tomorrow）；DS5：本地支持；DSE：未列入
+- Time Gal HD Remaster（Time Gal HD Remaster）；DS5：本地支持；DSE：未列入
+- Timespinner（Timespinner）；DS5：本地支持；DSE：未列入
+- Tokyo Xtreme Racer（Tokyo Xtreme Racer）；DS5：本地支持；DSE：未列入
+- Tom Clancy's Rainbow Six Extraction（Tom Clancy's Rainbow Six Extraction）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入
+- 古墓丽影 I-III 重制版（Tomb Raider I-III Remastered）；DS5：本地支持；DSE：未列入
+- Tomb Raider IV-VI Remastered（Tomb Raider IV-VI Remastered）；DS5：本地支持；DSE：未列入
+- Tomba! 2: The Evil Swine Return Special Edition（Tomba! 2: The Evil Swine Return Special Edition）；DS5：本地支持；DSE：未列入
+- Tomba! Special Edition（Tomba! Special Edition）；DS5：本地支持；DSE：未列入
+- Total Chaos（Total Chaos）；DS5：本地支持；DSE：未列入
+- Trails in the Sky 1st Chapter（Trails in the Sky 1st Chapter）；DS5：本地支持；DSE：未列入
+- Tribe Nine（Tribe Nine）；DS5：本地支持；DSE：未列入
+- Tunic（Tunic）；DS5：本地支持；DSE：未列入
+- Turbo Dismount 2（Turbo Dismount 2）；DS5：本地支持；DSE：未列入
+- Turok (2015)（Turok (2015)）；DS5：本地支持；DSE：未列入
+- Turok 2: Seeds of Evil (2017)（Turok 2: Seeds of Evil (2017)）；DS5：本地支持；DSE：未列入
+- Turok 3: Shadow of Oblivion Remastered（Turok 3: Shadow of Oblivion Remastered）；DS5：本地支持；DSE：未列入
+- Turok: Origins（Turok: Origins）；DS5：本地支持；DSE：未列入
+- UFO Robot Grendizer: The Feast of the Wolves（UFO Robot Grendizer: The Feast of the Wolves）；DS5：本地支持；DSE：未列入
+- 终极杀戮（Ultrakill）；DS5：本地支持；DSE：未列入
+- Umamusume: Pretty Derby（Umamusume: Pretty Derby）；DS5：本地支持；DSE：未列入
+- Unbeatable（Unbeatable）；DS5：本地支持；DSE：未列入
+- Unbeatable (white label)（Unbeatable (white label)）；DS5：本地支持；DSE：未列入
+- Under the Island（Under the Island）；DS5：本地支持；DSE：未列入
+- Under the Waves（Under the Waves）；DS5：本地支持；DSE：未列入
+- Unrailed! 2: Back on Track（Unrailed! 2: Back on Track）；DS5：本地支持；DSE：未列入
+- Until Then（Until Then）；DS5：本地支持；DSE：未列入
+- Utawarerumono: ZAN 2（Utawarerumono: ZAN 2）；DS5：本地支持；DSE：未列入
+- 吸血鬼崛起（V Rising）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- Valor Mortis（Valor Mortis）；DS5：本地支持；DSE：未列入
+- 吸血鬼幸存者（Vampire Survivors）；DS5：本地支持；DSE：未列入
+- Vampire: The Masquerade - Bloodlines 2（Vampire: The Masquerade - Bloodlines 2）；DS5：本地支持；DSE：未列入
+- Vampire's Fall 2（Vampire's Fall 2）；DS5：本地支持；DSE：未列入
+- Vapor World: Over the Mind（Vapor World: Over the Mind）；DS5：本地支持；DSE：未列入
+- Viewfinder（Viewfinder）；DS5：本地支持；DSE：未列入
+- Virtua Fighter 5 R.E.V.O. World Stage（Virtua Fighter 5 R.E.V.O. World Stage）；DS5：本地支持；DSE：未列入
+- VoidBound（VoidBound）；DS5：本地支持；DSE：未列入
+- Voidwrought（Voidwrought）；DS5：本地支持；DSE：未列入
+- VVVVVV（VVVVVV）；DS5：本地支持；DSE：未列入
+- 战锤 40K：星际战士 II（Warhammer 40,000: Space Marine II）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入
+- Whelm（Whelm）；DS5：本地支持；DSE：未列入
+- 燕云十六声（Where Winds Meet）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- While We Wait Here（While We Wait Here）；DS5：本地支持；DSE：未列入
+- Wicked Seed（Wicked Seed）；DS5：本地支持；DSE：未列入
+- 狂野之心（Wild Hearts）；DS5：本地支持；DSE：未列入
+- Wild Woods（Wild Woods）；DS5：本地支持；DSE：未列入
+- Wildgate（Wildgate）；DS5：本地支持；DSE：未列入
+- Witch It（Witch It）；DS5：本地支持；DSE：未列入
+- 僵尸世界大战（World War Z）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- WRC 10: FIA World Rally Championship（WRC 10: FIA World Rally Championship）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入
+- WRC Generations（WRC Generations）；DS5：本地支持；DSE：未列入；自适应扳机：DS5 本地支持，DSE 未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- Wreckfest 2（Wreckfest 2）；DS5：本地支持；DSE：未列入
+- Wreckreation（Wreckreation）；DS5：本地支持；DSE：未列入
+- WWE 2K25（WWE 2K25）；DS5：本地支持；DSE：未列入
+- XDefiant（XDefiant）；DS5：本地支持；DSE：未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- 如龙 0 导演剪辑版（Yakuza 0 Director's Cut）；DS5：本地支持；DSE：未列入
+- 如龙 极（2025）（Yakuza Kiwami (2025)）；DS5：本地支持；DSE：未列入
+- 如龙 7：光与暗的去向（Yakuza: Like a Dragon）；DS5：本地支持；DSE：未列入
+- Yooka-Replaylee（Yooka-Replaylee）；DS5：本地支持；DSE：未列入
+- Zero Parades: For Dead Spies（Zero Parades: For Dead Spies）；DS5：本地支持；DSE：未列入
+
+## 仅 DSE 本地支持 / DS5 非本地或未列入（1 款）
+
+- Faaast Penguin（Faaast Penguin）；DS5：未列入；DSE：本地支持
+
+## 限制支持（100 款）
+
+- 100% 鲜橙汁！（100% Orange Juice!）；DS5：限制支持；DSE：限制支持
+- 1348 Ex Voto（1348 Ex Voto）；DS5：限制支持；DSE：未列入
+- 异形虫群：反应式空投（Alien Swarm: Reactive Drop）；DS5：限制支持；DSE：限制支持
+- 光圈科技打工记（Aperture Desk Job）；DS5：限制支持；DSE：限制支持
+- 装甲核心 VI：境界天火（Armored Core VI: Fires of Rubicon）；DS5：限制支持；DSE：限制支持
+- 神力科莎（Assetto Corsa）；DS5：限制支持；DSE：限制支持；自适应扳机：DS5 需手动修复，DSE 需手动修复
+- 苏菲的炼金工房：不可思议书的炼金术士（Atelier Sophie: The Alchemist of the Mysterious Book）；DS5：限制支持；DSE：未列入
+- Atomfall（Atomfall）；DS5：限制支持；DSE：未列入
+- 原子之心（Atomic Heart）；DS5：限制支持；DSE：未列入
+- 班卓熊大冒险（Banjo: Recompiled）（Banjo-Kazooie (Banjo: Recompiled)）；DS5：限制支持；DSE：未列入
+- 死神：魂魄觉醒（Bleach: Rebirth of Souls）；DS5：限制支持；DSE：未列入
+- 龙战士 IV（Breath of Fire IV）；DS5：限制支持；DSE：未列入
+- 卡普空格斗合集 2（Capcom Fighting Collection 2）；DS5：限制支持；DSE：未列入
+- Cloudbuilt（Cloudbuilt）；DS5：限制支持；DSE：未列入
+- 极度深寒（Cold Fear）；DS5：限制支持；DSE：未列入
+- Concubine（Concubine）；DS5：限制支持；DSE：未列入
+- 核心危机：最终幻想 VII Reunion（Crisis Core: Final Fantasy VII Reunion）；DS5：限制支持；DSE：限制支持
+- 黑暗之魂 重制版（Dark Souls Remastered）；DS5：限制支持；DSE：未列入
+- 丧尸围城 豪华复刻版（Dead Rising Deluxe Remaster）；DS5：限制支持；DSE：限制支持
+- Deadlock（Deadlock）；DS5：限制支持；DSE：限制支持
+- 鬼泣 HD 合集（Devil May Cry HD Collection）；DS5：限制支持；DSE：限制支持
+- 恐龙危机（Dino Crisis）；DS5：限制支持；DSE：未列入
+- Dispatch（2025）（Dispatch (2025)）；DS5：限制支持；DSE：限制支持
+- 真·三国无双：起源（Dynasty Warriors: Origins）；DS5：限制支持；DSE：限制支持
+- Eclipse Breaker（Eclipse Breaker）；DS5：限制支持；DSE：未列入
+- 艾尔登法环：黑夜君临（Elden Ring Nightreign）；DS5：限制支持；DSE：限制支持
+- 终焉玛格诺利亚：雾中盛放之花（Ender Magnolia: Bloom in the Mist）；DS5：限制支持；DSE：未列入
+- 欧洲卡车模拟 2（Euro Truck Simulator 2）；DS5：限制支持；DSE：限制支持；自适应扳机：DS5 需手动修复，DSE 需手动修复
+- FAITH：邪恶三位一体（FAITH: The Unholy Trinity）；DS5：限制支持；DSE：未列入
+- 最终幻想（Final Fantasy）；DS5：限制支持；DSE：未列入
+- 最终幻想战略版：伊瓦利斯编年史（Final Fantasy Tactics - The Ivalice Chronicles）；DS5：限制支持；DSE：未列入
+- 盖瑞模组（Garry's Mod）；DS5：限制支持；DSE：未列入
+- 超级房车赛：传奇（GRID Legends）；DS5：限制支持；DSE：限制支持
+- 高达创坏者 4（Gundam Breaker 4）；DS5：限制支持；DSE：限制支持
+- 半衰期 Legacy（Half-Life Legacy）；DS5：限制支持；DSE：限制支持
+- I Am Your Beast（I Am Your Beast）；DS5：限制支持；DSE：未列入
+- 闪电十一人：英雄们的胜利之路（Inazuma Eleven: Victory Road）；DS5：限制支持；DSE：未列入
+- 杀戮空间 3（Killing Floor 3）；DS5：限制支持；DSE：未列入
+- 科乐美典藏系列：恶魔城 & 魂斗罗（Konami Collector's Series: Castlevania & Contra）；DS5：限制支持；DSE：未列入
+- 奇异人生：双重曝光（Life Is Strange: Double Exposure）；DS5：限制支持；DSE：未列入
+- Luto（Luto）；DS5：限制支持；DSE：未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- 漫威 vs. 卡普空格斗合集：街机经典（Marvel vs. Capcom Fighting Collection: Arcade Classics）；DS5：限制支持；DSE：未列入
+- 洛克人 X8（Mega Man X8）；DS5：限制支持；DSE：未列入
+- 合金装备 & 合金装备 2：Solid Snake 大师合集版（Metal Gear & Metal Gear 2: Solid Snake - Master Collection Version）；DS5：限制支持；DSE：限制支持
+- 合金装备（NES）& 合金装备 2：Snake's Revenge（NES）大师合集版（Metal Gear (NES) & Metal Gear 2: Snake's Revenge (NES) - Master Collection Version）；DS5：限制支持；DSE：限制支持
+- 合金装备 Solid 大师合集版（Metal Gear Solid - Master Collection Version）；DS5：限制支持；DSE：限制支持
+- 合金装备 Solid 2：自由之子 大师合集版（Metal Gear Solid 2: Sons of Liberty - Master Collection Version）；DS5：限制支持；DSE：限制支持
+- 合金装备 Solid 3：食蛇者 大师合集版（Metal Gear Solid 3: Snake Eater - Master Collection Version）；DS5：限制支持；DSE：限制支持
+- 暗喻幻想：ReFantazio（Metaphor: ReFantazio）；DS5：限制支持；DSE：限制支持
+- Mixtape（Mixtape）；DS5：限制支持；DSE：未列入
+- 怪物猎人物语 3：命运双龙（Monster Hunter Stories 3: Twisted Reflection）；DS5：限制支持；DSE：限制支持
+- 怪物猎人：荒野（Monster Hunter Wilds）；DS5：限制支持；DSE：限制支持；自适应扳机：DS5 本地支持，DSE 本地支持；触觉反馈：DS5 本地支持，DSE 本地支持
+- 我的英雄学院：All's Justice（My Hero Academia: All's Justice）；DS5：限制支持；DSE：未列入
+- NASCAR Racing 2003 Season（NASCAR Racing 2003 Season）；DS5：限制支持；DSE：限制支持
+- Necesse（Necesse）；DS5：限制支持；DSE：限制支持
+- 英雄不再（No More Heroes）；DS5：限制支持；DSE：限制支持
+- 英雄不再 2：垂死挣扎（No More Heroes 2: Desperate Struggle）；DS5：限制支持；DSE：限制支持
+- 大神 绝景版（Okami HD）；DS5：限制支持；DSE：限制支持
+- OneShot：世界机器版（Oneshot: World Machine Edition）；DS5：限制支持；DSE：限制支持
+- Onirism（Onirism）；DS5：限制支持；DSE：未列入
+- 吃豆人博物馆+（Pac-Man Museum Plus）；DS5：限制支持；DSE：未列入
+- 吃豆人世界 2 Re-Pac（Pac-Man World 2 Re-Pac）；DS5：限制支持；DSE：限制支持
+- 女神异闻录 5 皇家版（Persona 5 Royal）；DS5：限制支持；DSE：限制支持
+- 瘟疫公司：进化（Plague Inc: Evolved）；DS5：限制支持；DSE：限制支持
+- 波比的游戏时间（Poppy Playtime）；DS5：限制支持；DSE：未列入
+- 传送门 2（Portal 2）；DS5：限制支持；DSE：限制支持
+- 传送门 2：社区版（Portal 2: Community Edition）；DS5：限制支持；DSE：限制支持
+- 传送门：革命（Portal: Revolution）；DS5：限制支持；DSE：限制支持
+- 掠食（2017）（Prey (2017)）；DS5：限制支持；DSE：限制支持
+- RaceRoom 赛车体验（RaceRoom Racing Experience）；DS5：限制支持；DSE：限制支持
+- 雷曼 2：胜利大逃亡（Rayman 2: The Great Escape）；DS5：限制支持；DSE：未列入
+- Reanimal（Reanimal）；DS5：限制支持；DSE：限制支持
+- 生化危机（Resident Evil）；DS5：限制支持；DSE：未列入
+- 生化危机 2（Resident Evil 2）；DS5：限制支持；DSE：未列入
+- 生化危机 3：复仇女神（Resident Evil 3: Nemesis）；DS5：限制支持；DSE：未列入
+- 狂野星球复仇记（Revenge of the Savage Planet）；DS5：限制支持；DSE：未列入
+- 浪漫沙加 2：七英雄的复仇（Romancing SaGa 2: Revenge of the Seven）；DS5：限制支持；DSE：限制支持
+- Romeo Is a Dead Man（Romeo Is a Dead Man）；DS5：限制支持；DSE：限制支持
+- Sandbox（Sandbox）；DS5：限制支持；DSE：限制支持
+- SD 高达 G 世代 火线纵横（SD Gundam G Generation Cross Rays）；DS5：限制支持；DSE：限制支持
+- 只狼：影逝二度（Sekiro: Shadows Die Twice）；DS5：限制支持；DSE：未列入
+- Selaco（Selaco）；DS5：限制支持；DSE：未列入
+- 真·女神转生 V Vengeance（Shin Megami Tensei V: Vengeance）；DS5：限制支持；DSE：限制支持
+- 索尼克 未知边境（Sonic Frontiers）；DS5：限制支持；DSE：限制支持
+- 索尼克 狂欢（Sonic Mania）；DS5：限制支持；DSE：未列入
+- 索尼克赛车：交叉世界（Sonic Racing: CrossWorlds）；DS5：限制支持；DSE：限制支持
+- 索尼克 × 夏特 世代重启（Sonic X Shadow Generations）；DS5：限制支持；DSE：限制支持
+- Spin Rhythm XD（Spin Rhythm XD）；DS5：限制支持；DSE：限制支持
+- 神室町街头（Streets of Kamurocho）；DS5：限制支持；DSE：限制支持
+- 超级机器人大战 30（Super Robot Wars 30）；DS5：限制支持；DSE：限制支持
+- Supraworld（Supraworld）；DS5：限制支持；DSE：未列入
+- 弗兰克·斯通的阴影（The Casting of Frank Stone）；DS5：限制支持；DSE：限制支持
+- 库先生的众多碎片（The Many Pieces of Mr. Coo）；DS5：限制支持；DSE：未列入
+- 蓝精灵：邪恶叶子大作战（The Smurfs: Mission Vileaf）；DS5：限制支持；DSE：未列入
+- 神偷：暗黑计划（Thief: The Dark Project）；DS5：限制支持；DSE：未列入
+- 古墓丽影（2013）（Tomb Raider (2013)）；DS5：限制支持；DSE：未列入；自适应扳机：DS5 需手动修复，DSE 未列入；触觉反馈：DS5 需手动修复，DSE 未列入
+- 折磨之魂 2（Tormented Souls 2）；DS5：限制支持；DSE：未列入；触觉反馈：DS5 本地支持，DSE 未列入
+- 东方幕华祭 ～ Fantastic Danmaku Festival Part III（Touhou Makuka Sai ～ Fantastic Danmaku Festival Part III）；DS5：限制支持；DSE：限制支持
+- Vanran（Vanran）；DS5：限制支持；DSE：未列入
+- VRChat（VRChat）；DS5：限制支持；DSE：未列入
+
+## 需要手动修复/改动（13 款）
+
+- 爱丽丝：疯狂回归（Alice: Madness Returns）；DS5：需手动修复；DSE：需手动修复
+- 美国麦基的爱丽丝（2011）（American McGee's Alice (2011)）；DS5：需手动修复；DSE：需手动修复
+- 死亡空间 2（Dead Space 2）；DS5：需手动修复；DSE：需手动修复
+- 毁灭战士 3（Doom 3）；DS5：需手动修复；DSE：未列入
+- 极度恐慌（F.E.A.R.）；DS5：需手动修复；DSE：需手动修复
+- 极度恐慌：珀尔修斯指令（F.E.A.R. Perseus Mandate）；DS5：需手动修复；DSE：需手动修复
+- 侠盗猎车手：圣安地列斯（Grand Theft Auto: San Andreas）；DS5：需手动修复；DSE：需手动修复；自适应扳机：DS5 需手动修复，DSE 需手动修复
+- 洛克人 X 传奇合集（Mega Man X Legacy Collection）；DS5：需手动修复；DSE：需手动修复
+- 洛克人 X 传奇合集 2（Mega Man X Legacy Collection 2）；DS5：需手动修复；DSE：需手动修复
+- 雷神之锤 II（Quake II）；DS5：未列入；DSE：需手动修复
+- 暗影帝国 重制版（Shadow Complex Remastered）；DS5：需手动修复；DSE：未列入
+- 索尼克大冒险 2（Sonic Adventure 2）；DS5：需手动修复；DSE：未列入
+- 索尼克大冒险 DX（2011）（Sonic Adventure DX (2011)）；DS5：需手动修复；DSE：需手动修复
+
+
+## 自适应扳机详细核对
+
+DS5 自适应扳机：132 款（本地支持 123，限制支持 1，需手动修复 8）。
+DSE 自适应扳机：70 款（本地支持 64，限制支持 1，需手动修复 5）。
+DSE 有但 DS5 没有：0 款。
+DSE 与 DS5 状态不同：0 款。
+DS5 有但 DSE 没有：62 款。
+
+### DS5 有自适应扳机但 DSE 未列入（62 款）
+
+- 刺客信条：影（Assassin's Creed Shadows）；DS5：本地支持；DSE：未列入
+- 刺客信条：英灵殿（Assassin's Creed Valhalla）；DS5：本地支持；DSE：未列入
+- 放逐者：新伊甸园的幽灵（Banishers: Ghosts of New Eden）；DS5：本地支持；DSE：未列入
+- 黑神话：悟空（Black Myth: Wukong）；DS5：本地支持；DSE：未列入
+- 荆棘：山王（Bramble: The Mountain King）；DS5：本地支持；DSE：未列入
+- 臭虫（Bugsnax）；DS5：本地支持；DSE：未列入
+- 凯恩（Cairn）；DS5：本地支持；DSE：未列入
+- 使命召唤：黑色行动 冷战（Call of Duty: Black Ops Cold War）；DS5：本地支持；DSE：未列入
+- 使命召唤：战区 2.0（Call of Duty: Warzone 2.0）；DS5：本地支持；DSE：未列入
+- 赤红沙漠（Crimson Desert）；DS5：本地支持；DSE：未列入
+- 克洛诺斯：新黎明（Cronos: The New Dawn）；DS5：本地支持；DSE：未列入
+- 潜水员戴夫（Dave the Diver）；DS5：本地支持；DSE：未列入
+- 往日不再（Days Gone）；DS5：本地支持；DSE：未列入
+- 死亡搁浅 2：冥滩之上（Death Stranding 2: On the Beach）；DS5：本地支持；DSE：未列入
+- 死亡循环（Deathloop）；DS5：本地支持；DSE：未列入
+- 支石墓（Dolmen）；DS5：本地支持；DSE：未列入
+- 消逝的光芒（Dying Light）；DS5：需手动修复；DSE：未列入
+- 消逝的光芒 2：人与仁之战（Dying Light 2 Stay Human）；DS5：本地支持；DSE：未列入
+- 埃里克霍姆：被偷走的梦想（Eriksholm: The Stolen Dream）；DS5：本地支持；DSE：未列入
+- 永恒空间2（Everspace 2）；DS5：本地支持；DSE：未列入
+- F1 2021（F1 2021）；DS5：本地支持；DSE：未列入
+- 孤岛惊魂6（Far Cry 6）；DS5：本地支持；DSE：未列入
+- 最终幻想 VII：重生（Final Fantasy VII Rebirth）；DS5：本地支持；DSE：未列入
+- 最终幻想 VII 重制版 Intergrade（Final Fantasy VII Remake Intergrade）；DS5：本地支持；DSE：未列入
+- 战神（God of War）；DS5：需手动修复；DSE：未列入
+- 哈迪斯 II（Hades II）；DS5：本地支持；DSE：未列入
+- 约翰·卡朋特的有毒突击队（John Carpenter's Toxic Commando）；DS5：本地支持；DSE：未列入
+- 天国：拯救 II（Kingdom Come: Deliverance II）；DS5：本地支持；DSE：未列入
+- 地铁：离去 增强版（Metro Exodus Enhanced Edition）；DS5：本地支持；DSE：未列入
+- 心灵之眼（MindsEye）；DS5：本地支持；DSE：未列入
+- 涅瓦河（Neva）；DS5：本地支持；DSE：未列入
+- 从永远到永远（Neverness to Everness）；DS5：本地支持；DSE：未列入
+- 仁王 3（Nioh 3）；DS5：本地支持；DSE：未列入
+- 超自然车旅（Pacific Drive）；DS5：本地支持；DSE：未列入
+- 止痛药 (2025)（Painkiller (2025)）；DS5：本地支持；DSE：未列入
+- 皮皮斯特雷罗和被诅咒的溜溜球（Pipistrello and the Cursed Yoyo）；DS5：本地支持；DSE：未列入
+- 严阵以待（Ready or Not）；DS5：本地支持；DSE：未列入
+- RoadCraft（RoadCraft）；DS5：本地支持；DSE：未列入
+- 潜行者 2：切尔诺贝利之心（S.T.A.L.K.E.R. 2: Heart of Chornobyl）；DS5：本地支持；DSE：未列入
+- S.T.A.L.K.E.R.: Call of Prypiat Enhanced Edition（S.T.A.L.K.E.R.: Call of Prypiat Enhanced Edition）；DS5：本地支持；DSE：未列入
+- S.T.A.L.K.E.R.: Clear Sky Enhanced Edition（S.T.A.L.K.E.R.: Clear Sky Enhanced Edition）；DS5：本地支持；DSE：未列入
+- S.T.A.L.K.E.R.: Shadow of Chornobyl Enhanced Edition（S.T.A.L.K.E.R.: Shadow of Chornobyl Enhanced Edition）；DS5：本地支持；DSE：未列入
+- 麻布仔大冒险（Sackboy: A Big Adventure）；DS5：本地支持；DSE：未列入
+- 盗贼之海（Sea of Thieves）；DS5：本地支持；DSE：未列入
+- SEASON: A letter to the future（SEASON: A letter to the future）；DS5：本地支持；DSE：未列入
+- Signalis（Signalis）；DS5：本地支持；DSE：未列入
+- 星球大战 绝地：幸存者（Star Wars Jedi: Survivor）；DS5：本地支持；DSE：未列入
+- Styx: Blades of Greed（Styx: Blades of Greed）；DS5：本地支持；DSE：未列入
+- 自杀小队：消灭正义联盟（Suicide Squad: Kill the Justice League）；DS5：本地支持；DSE：未列入
+- Test Drive Unlimited Solar Crown（Test Drive Unlimited Solar Crown）；DS5：本地支持；DSE：未列入
+- The Chant（The Chant）；DS5：本地支持；DSE：未列入
+- 第一狂战士：卡赞（The First Berserker: Khazan）；DS5：本地支持；DSE：未列入
+- The Riftbreaker（The Riftbreaker）；DS5：本地支持；DSE：未列入
+- 巫师 3：狂猎（The Witcher 3: Wild Hunt）；DS5：本地支持；DSE：未列入
+- Tom Clancy's Rainbow Six Extraction（Tom Clancy's Rainbow Six Extraction）；DS5：本地支持；DSE：未列入
+- 古墓丽影（2013）（Tomb Raider (2013)）；DS5：需手动修复；DSE：未列入
+- 吸血鬼崛起（V Rising）；DS5：本地支持；DSE：未列入
+- 战锤 40K：星际战士 II（Warhammer 40,000: Space Marine II）；DS5：本地支持；DSE：未列入
+- 燕云十六声（Where Winds Meet）；DS5：本地支持；DSE：未列入
+- 僵尸世界大战（World War Z）；DS5：本地支持；DSE：未列入
+- WRC 10: FIA World Rally Championship（WRC 10: FIA World Rally Championship）；DS5：本地支持；DSE：未列入
+- WRC Generations（WRC Generations）；DS5：本地支持；DSE：未列入
+
+## 触觉反馈详细核对
+
+DS5 触觉反馈：120 款（本地支持 105，限制支持 10，需手动修复 5）。
+DSE 触觉反馈：63 款（本地支持 51，限制支持 9，需手动修复 3）。
+DSE 有但 DS5 没有：0 款。
+DSE 与 DS5 状态不同：0 款。
+DS5 有但 DSE 没有：57 款。
+
+### DS5 有触觉反馈但 DSE 未列入（57 款）
+
+- 动物井（Animal Well）；DS5：本地支持；DSE：未列入
+- 刺客信条：影（Assassin's Creed Shadows）；DS5：本地支持；DSE：未列入
+- 刺客信条：英灵殿（Assassin's Creed Valhalla）；DS5：本地支持；DSE：未列入
+- 黑神话：悟空（Black Myth: Wukong）；DS5：本地支持；DSE：未列入
+- 荆棘：山王（Bramble: The Mountain King）；DS5：本地支持；DSE：未列入
+- 凯恩（Cairn）；DS5：本地支持；DSE：未列入
+- 使命召唤：战区 2.0（Call of Duty: Warzone 2.0）；DS5：本地支持；DSE：未列入
+- 克劳德海姆（Cloudheim）；DS5：本地支持；DSE：未列入
+- 克洛诺斯：新黎明（Cronos: The New Dawn）；DS5：本地支持；DSE：未列入
+- 潜水员戴夫（Dave the Diver）；DS5：本地支持；DSE：未列入
+- 往日不再（Days Gone）；DS5：本地支持；DSE：未列入
+- 死亡搁浅 2：冥滩之上（Death Stranding 2: On the Beach）；DS5：本地支持；DSE：未列入
+- 死亡循环（Deathloop）；DS5：本地支持；DSE：未列入
+- 人格解体（Depersonalization）；DS5：本地支持；DSE：未列入
+- 支石墓（Dolmen）；DS5：本地支持；DSE：未列入
+- 消逝的光芒（Dying Light）；DS5：需手动修复；DSE：未列入
+- 消逝的光芒 2：人与仁之战（Dying Light 2 Stay Human）；DS5：本地支持；DSE：未列入
+- 埃里克霍姆：被偷走的梦想（Eriksholm: The Stolen Dream）；DS5：本地支持；DSE：未列入
+- 幻想新维度（Fantasian Neo Dimension）；DS5：本地支持；DSE：未列入
+- 孤岛惊魂6（Far Cry 6）；DS5：本地支持；DSE：未列入
+- 最终幻想 VII：重生（Final Fantasy VII Rebirth）；DS5：本地支持；DSE：未列入
+- 最终幻想 VII 重制版 Intergrade（Final Fantasy VII Remake Intergrade）；DS5：本地支持；DSE：未列入
+- 急速（Haste）；DS5：本地支持；DSE：未列入
+- 乐高地平线历险记（Lego Horizon Adventures）；DS5：本地支持；DSE：未列入
+- Luto（Luto）；DS5：本地支持；DSE：未列入
+- 马拉松（2026）（Marathon (2026)）；DS5：本地支持；DSE：未列入
+- 合金装备 Δ：食蛇者（Metal Gear Solid Δ: Snake Eater）；DS5：限制支持；DSE：未列入
+- 地铁：离去 增强版（Metro Exodus Enhanced Edition）；DS5：本地支持；DSE：未列入
+- 心灵之眼（MindsEye）；DS5：本地支持；DSE：未列入
+- 从永远到永远（Neverness to Everness）；DS5：本地支持；DSE：未列入
+- 仁王 3（Nioh 3）；DS5：本地支持；DSE：未列入
+- 超自然车旅（Pacific Drive）；DS5：本地支持；DSE：未列入
+- 止痛药 (2025)（Painkiller (2025)）；DS5：本地支持；DSE：未列入
+- 彩色山脉计划（Project Colored Mountains）；DS5：本地支持；DSE：未列入
+- Riven (2024)（Riven (2024)）；DS5：本地支持；DSE：未列入
+- RoadCraft（RoadCraft）；DS5：本地支持；DSE：未列入
+- 潜行者 2：切尔诺贝利之心（S.T.A.L.K.E.R. 2: Heart of Chornobyl）；DS5：本地支持；DSE：未列入
+- 麻布仔大冒险（Sackboy: A Big Adventure）；DS5：本地支持；DSE：未列入
+- Satisfactory（Satisfactory）；DS5：本地支持；DSE：未列入
+- 盗贼之海（Sea of Thieves）；DS5：本地支持；DSE：未列入
+- SEASON: A letter to the future（SEASON: A letter to the future）；DS5：本地支持；DSE：未列入
+- Sleep Awake（Sleep Awake）；DS5：本地支持；DSE：未列入
+- 索尼克 超级巨星（Sonic Superstars）；DS5：本地支持；DSE：未列入
+- 星球大战 绝地：幸存者（Star Wars Jedi: Survivor）；DS5：本地支持；DSE：未列入
+- Still Wakes the Deep（Still Wakes the Deep）；DS5：本地支持；DSE：未列入
+- 迷失（Stray）；DS5：本地支持；DSE：未列入
+- Styx: Blades of Greed（Styx: Blades of Greed）；DS5：本地支持；DSE：未列入
+- Sword of the Sea（Sword of the Sea）；DS5：本地支持；DSE：未列入
+- 铁拳 8（Tekken 8）；DS5：本地支持；DSE：未列入
+- 第一狂战士：卡赞（The First Berserker: Khazan）；DS5：本地支持；DSE：未列入
+- 古墓丽影（2013）（Tomb Raider (2013)）；DS5：需手动修复；DSE：未列入
+- 折磨之魂 2（Tormented Souls 2）；DS5：本地支持；DSE：未列入
+- 吸血鬼崛起（V Rising）；DS5：本地支持；DSE：未列入
+- 燕云十六声（Where Winds Meet）；DS5：本地支持；DSE：未列入
+- 僵尸世界大战（World War Z）；DS5：本地支持；DSE：未列入
+- WRC Generations（WRC Generations）；DS5：本地支持；DSE：未列入
+- XDefiant（XDefiant）；DS5：本地支持；DSE：未列入
+
+
+## 触摸板详细核对
+
+来源：https://www.pcgamingwiki.com/wiki/List_of_games_that_support_touchpad
+说明：该页面是手写列表，不是 Cargo 自动列表；这里解析 Games 下的 DualSense 与 DualSense Edge 小节，包含原生支持、第三方工具、自定义配置、SteamInput/Steam 方案，排除 Emulators 小节。
+DS5 触摸板：15 款（本地支持 5，需手动修复 10）。
+DSE 触摸板：2 款（本地支持 2，需手动修复 0）。
+已写入主表的触摸板页面补充条目：7 款。
+
+### 触摸板条目明细
+
+- 动物井（Animal Well）；DS5 本地支持，原生支持，Native Support. Interact with dust and vines using the touch pad.
+- Apex 英雄（Apex Legends）；DS5 需手动修复，第三方工具/自定义配置，Custom config. Requires reWASD application to run. Activate shield and changes weapons.
+- 黑色沙漠（Black Desert）；DS5 需手动修复，第三方工具/自定义配置，Custom config. Requires reWASD application to run. Navigates map, activates Special Reward and special movement (Z and X).
+- 死亡空间 2（Dead Space 2）；DS5 需手动修复，第三方工具/自定义配置，Custom config. Requires reWASD application to run. Responsible for recentring camera and Attack.
+- 深岩银河（Deep Rock Galactic）；DS5 需手动修复，第三方工具/自定义配置，Custom config. Requires reWASD application to run. Numpad action shortcuts.
+- 堡垒之夜（Fortnite）；DS5 需手动修复，第三方工具/自定义配置，Custom config. Requires reWASD application to run. Constant fire.
+- 原神（Genshin Impact）；DS5 本地支持，第三方工具/自定义配置，Touchpad is used for text chat in co-op.； Mods: Custom config. Requires reWASD application to run. Uses the touchpad for interacting with a map.；DSE 本地支持，原生支持，Native support. Touchpad is used for text chat in co-op.
+- 幽灵线：东京（Ghostwire: Tokyo）；DS5 本地支持，Changing weapons.Gesture-sealing
+- 侠盗猎车手 V 增强版（Grand Theft Auto V Enhanced）；DS5 本地支持，原生支持，Native support.；DSE 本地支持，原生支持，Native support. |}
+- 新世界（New World）；DS5 需手动修复，第三方工具/自定义配置，Custom config. Requires reWASD application to run. Map navigation.
+- 潜行者（STALKER）；DS5 需手动修复，第三方工具/自定义配置，Custom config. Requires reWASD application to run. Camera control.
+- 超级人类（Super People）；DS5 需手动修复，第三方工具/自定义配置，Custom config. Requires reWASD application to run. Touchpad activated map.
+- 铁拳 7（Tekken 7）；DS5 需手动修复，第三方工具/自定义配置，Custom config. Requires reWASD application to run. Macros.
+- 最后生还者 第一部（The Last of Us Part I）；DS5 本地支持，原生支持，Native support.
+- 无畏契约（Valorant）；DS5 需手动修复，第三方工具/自定义配置，Custom config. Requires reWASD application to run. Changing weapons. |}
